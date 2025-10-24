@@ -1,0 +1,2094 @@
+league_id,match_week,home_team,away_team,result
+1,1,Manchester United,Fulham,1
+1,1,Ipswich,Liverpool,-1
+1,1,Arsenal,Wolverhampton,1
+1,1,Everton,Brighton,-1
+1,1,Newcastle United,Southampton,1
+1,1,Nottingham Forest,Bournemouth,0
+1,1,West Ham United,Aston Villa,-1
+1,1,Brentford,Crystal Palace,1
+1,1,Chelsea,Manchester City,-1
+1,1,Leicester City,Tottenham,0
+1,2,Brighton,Manchester United,1
+1,2,Tottenham,Everton,1
+1,2,Crystal Palace,West Ham United,-1
+1,2,Southampton,Nottingham Forest,-1
+1,2,Fulham,Leicester City,1
+1,2,Manchester City,Ipswich,1
+1,2,Aston Villa,Arsenal,-1
+1,2,Bournemouth,Newcastle United,0
+1,2,Wolverhampton,Chelsea,-1
+1,2,Liverpool,Brentford,1
+1,3,Arsenal,Brighton,0
+1,3,Nottingham Forest,Wolverhampton,0
+1,3,Leicester City,Aston Villa,-1
+1,3,Ipswich,Fulham,0
+1,3,Brentford,Southampton,1
+1,3,Everton,Bournemouth,-1
+1,3,West Ham United,Manchester City,-1
+1,3,Chelsea,Crystal Palace,0
+1,3,Newcastle United,Tottenham,1
+1,3,Manchester United,Liverpool,-1
+1,4,Southampton,Manchester United,-1
+1,4,Liverpool,Nottingham Forest,-1
+1,4,Manchester City,Brentford,1
+1,4,Fulham,West Ham United,0
+1,4,Crystal Palace,Leicester City,0
+1,4,Brighton,Ipswich,0
+1,4,Aston Villa,Everton,1
+1,4,Bournemouth,Chelsea,-1
+1,4,Tottenham,Arsenal,-1
+1,4,Wolverhampton,Newcastle United,-1
+1,5,West Ham United,Chelsea,-1
+1,5,Aston Villa,Wolverhampton,1
+1,5,Fulham,Newcastle United,1
+1,5,Southampton,Ipswich,0
+1,5,Tottenham,Brentford,1
+1,5,Leicester City,Everton,0
+1,5,Liverpool,Bournemouth,1
+1,5,Crystal Palace,Manchester United,0
+1,5,Brighton,Nottingham Forest,0
+1,5,Manchester City,Arsenal,0
+1,6,Newcastle United,Manchester City,0
+1,6,Chelsea,Brighton,1
+1,6,Brentford,West Ham United,0
+1,6,Everton,Crystal Palace,1
+1,6,Arsenal,Leicester City,1
+1,6,Nottingham Forest,Fulham,-1
+1,6,Wolverhampton,Liverpool,-1
+1,6,Ipswich,Aston Villa,0
+1,6,Manchester United,Tottenham,-1
+1,6,Bournemouth,Southampton,1
+1,7,Crystal Palace,Liverpool,-1
+1,7,Arsenal,Southampton,1
+1,7,Brentford,Wolverhampton,1
+1,7,Manchester City,Fulham,1
+1,7,West Ham United,Ipswich,1
+1,7,Leicester City,Bournemouth,1
+1,7,Everton,Newcastle United,0
+1,7,Aston Villa,Manchester United,0
+1,7,Chelsea,Nottingham Forest,0
+1,7,Brighton,Tottenham,1
+1,8,Tottenham,West Ham United,1
+1,8,Manchester United,Brentford,1
+1,8,Fulham,Aston Villa,-1
+1,8,Newcastle United,Brighton,-1
+1,8,Southampton,Leicester City,-1
+1,8,Ipswich,Everton,-1
+1,8,Bournemouth,Arsenal,1
+1,8,Wolverhampton,Manchester City,-1
+1,8,Liverpool,Chelsea,1
+1,8,Nottingham Forest,Crystal Palace,1
+1,9,Leicester City,Nottingham Forest,-1
+1,9,Manchester City,Southampton,1
+1,9,Brentford,Ipswich,1
+1,9,Brighton,Wolverhampton,0
+1,9,Aston Villa,Bournemouth,0
+1,9,Everton,Fulham,0
+1,9,Crystal Palace,Tottenham,1
+1,9,Chelsea,Newcastle United,1
+1,9,West Ham United,Manchester United,1
+1,9,Arsenal,Liverpool,0
+1,10,Newcastle United,Arsenal,1
+1,10,Liverpool,Brighton,1
+1,10,Ipswich,Leicester City,0
+1,10,Bournemouth,Manchester City,1
+1,10,Southampton,Everton,1
+1,10,Nottingham Forest,West Ham United,1
+1,10,Wolverhampton,Crystal Palace,0
+1,10,Tottenham,Aston Villa,1
+1,10,Manchester United,Chelsea,0
+1,10,Fulham,Brentford,1
+1,11,Wolverhampton,Southampton,1
+1,11,West Ham United,Everton,0
+1,11,Brentford,Bournemouth,1
+1,11,Crystal Palace,Fulham,-1
+1,11,Brighton,Manchester City,1
+1,11,Liverpool,Aston Villa,1
+1,11,Nottingham Forest,Newcastle United,-1
+1,11,Tottenham,Ipswich,-1
+1,11,Manchester United,Leicester City,1
+1,11,Chelsea,Arsenal,0
+1,12,Leicester City,Chelsea,-1
+1,12,Fulham,Wolverhampton,-1
+1,12,Everton,Brentford,0
+1,12,Arsenal,Nottingham Forest,1
+1,12,Bournemouth,Brighton,-1
+1,12,Aston Villa,Crystal Palace,0
+1,12,Manchester City,Tottenham,-1
+1,12,Southampton,Liverpool,-1
+1,12,Ipswich,Manchester United,0
+1,12,Newcastle United,West Ham United,-1
+1,13,Brighton,Southampton,0
+1,13,Wolverhampton,Bournemouth,-1
+1,13,Crystal Palace,Newcastle United,0
+1,13,Nottingham Forest,Ipswich,1
+1,13,Brentford,Leicester City,1
+1,13,West Ham United,Arsenal,-1
+1,13,Chelsea,Aston Villa,1
+1,13,Tottenham,Fulham,0
+1,13,Manchester United,Everton,1
+1,13,Liverpool,Manchester City,1
+1,14,Ipswich,Crystal Palace,-1
+1,14,Leicester City,West Ham United,1
+1,14,Southampton,Chelsea,-1
+1,14,Manchester City,Nottingham Forest,1
+1,14,Newcastle United,Liverpool,0
+1,14,Everton,Wolverhampton,1
+1,14,Arsenal,Manchester United,1
+1,14,Aston Villa,Brentford,1
+1,14,Fulham,Brighton,1
+1,14,Bournemouth,Tottenham,1
+1,15,Brentford,Newcastle United,1
+1,15,Aston Villa,Southampton,1
+1,15,Crystal Palace,Manchester City,0
+1,15,Manchester United,Nottingham Forest,-1
+1,15,Fulham,Arsenal,0
+1,15,Leicester City,Brighton,0
+1,15,Ipswich,Bournemouth,-1
+1,15,Tottenham,Chelsea,-1
+1,15,West Ham United,Wolverhampton,1
+1,16,Arsenal,Everton,0
+1,16,Wolverhampton,Ipswich,-1
+1,16,Newcastle United,Leicester City,1
+1,16,Liverpool,Fulham,0
+1,16,Nottingham Forest,Aston Villa,1
+1,16,Brighton,Crystal Palace,-1
+1,16,Manchester City,Manchester United,-1
+1,16,Southampton,Tottenham,-1
+1,16,Chelsea,Brentford,1
+1,16,Bournemouth,West Ham United,0
+1,17,Aston Villa,Manchester City,1
+1,17,West Ham United,Brighton,0
+1,17,Ipswich,Newcastle United,-1
+1,17,Brentford,Nottingham Forest,-1
+1,17,Crystal Palace,Arsenal,-1
+1,17,Everton,Chelsea,0
+1,17,Manchester United,Bournemouth,-1
+1,17,Fulham,Southampton,0
+1,17,Leicester City,Wolverhampton,-1
+1,17,Tottenham,Liverpool,-1
+1,18,Manchester City,Everton,0
+1,18,Newcastle United,Aston Villa,1
+1,18,Nottingham Forest,Tottenham,1
+1,18,Bournemouth,Crystal Palace,0
+1,18,Chelsea,Fulham,-1
+1,18,Southampton,West Ham United,-1
+1,18,Wolverhampton,Manchester United,1
+1,18,Liverpool,Leicester City,1
+1,18,Brighton,Brentford,0
+1,18,Arsenal,Ipswich,1
+1,19,Leicester City,Manchester City,-1
+1,19,Everton,Nottingham Forest,-1
+1,19,Crystal Palace,Southampton,1
+1,19,Tottenham,Wolverhampton,0
+1,19,Fulham,Bournemouth,0
+1,19,West Ham United,Liverpool,-1
+1,19,Ipswich,Chelsea,1
+1,19,Aston Villa,Brighton,0
+1,19,Manchester United,Newcastle United,-1
+1,19,Brentford,Arsenal,-1
+1,20,Tottenham,Newcastle United,-1
+1,20,Bournemouth,Everton,1
+1,20,Aston Villa,Leicester City,1
+1,20,Crystal Palace,Chelsea,0
+1,20,Southampton,Brentford,-1
+1,20,Manchester City,West Ham United,1
+1,20,Brighton,Arsenal,0
+1,20,Fulham,Ipswich,0
+1,20,Liverpool,Manchester United,0
+1,20,Wolverhampton,Nottingham Forest,-1
+1,21,Chelsea,Bournemouth,0
+1,21,West Ham United,Fulham,1
+1,21,Brentford,Manchester City,0
+1,21,Nottingham Forest,Liverpool,0
+1,21,Newcastle United,Wolverhampton,1
+1,21,Everton,Aston Villa,-1
+1,21,Leicester City,Crystal Palace,-1
+1,21,Arsenal,Tottenham,1
+1,21,Ipswich,Brighton,-1
+1,21,Manchester United,Southampton,1
+1,22,Newcastle United,Bournemouth,-1
+1,22,West Ham United,Crystal Palace,-1
+1,22,Brentford,Liverpool,-1
+1,22,Leicester City,Fulham,-1
+1,22,Arsenal,Aston Villa,0
+1,22,Nottingham Forest,Southampton,1
+1,22,Everton,Tottenham,1
+1,22,Manchester United,Brighton,-1
+1,22,Ipswich,Manchester City,-1
+1,22,Chelsea,Wolverhampton,1
+1,23,Brighton,Everton,-1
+1,23,Liverpool,Ipswich,1
+1,23,Southampton,Newcastle United,-1
+1,23,Wolverhampton,Arsenal,-1
+1,23,Bournemouth,Nottingham Forest,1
+1,23,Manchester City,Chelsea,1
+1,23,Tottenham,Leicester City,-1
+1,23,Crystal Palace,Brentford,-1
+1,23,Aston Villa,West Ham United,0
+1,23,Fulham,Manchester United,-1
+1,24,Nottingham Forest,Brighton,1
+1,24,Newcastle United,Fulham,-1
+1,24,Everton,Leicester City,1
+1,24,Ipswich,Southampton,-1
+1,24,Bournemouth,Liverpool,-1
+1,24,Wolverhampton,Aston Villa,1
+1,24,Manchester United,Crystal Palace,-1
+1,24,Brentford,Tottenham,-1
+1,24,Arsenal,Manchester City,1
+1,24,Chelsea,West Ham United,1
+1,15,Everton,Liverpool,0
+1,25,Brighton,Chelsea,1
+1,25,Leicester City,Arsenal,-1
+1,25,West Ham United,Brentford,-1
+1,25,Southampton,Bournemouth,-1
+1,25,Aston Villa,Ipswich,0
+1,25,Manchester City,Newcastle United,1
+1,25,Fulham,Nottingham Forest,1
+1,25,Crystal Palace,Everton,-1
+1,25,Liverpool,Wolverhampton,1
+1,25,Tottenham,Manchester United,1
+1,26,Leicester City,Brentford,-1
+1,26,Everton,Manchester United,0
+1,26,Bournemouth,Wolverhampton,-1
+1,26,Ipswich,Tottenham,-1
+1,26,Southampton,Brighton,-1
+1,26,Arsenal,West Ham United,-1
+1,26,Fulham,Crystal Palace,-1
+1,26,Aston Villa,Chelsea,1
+1,26,Newcastle United,Nottingham Forest,1
+1,26,Manchester City,Liverpool,-1
+1,27,Crystal Palace,Aston Villa,1
+1,27,Wolverhampton,Fulham,-1
+1,27,Brighton,Bournemouth,1
+1,27,Chelsea,Southampton,1
+1,27,Brentford,Everton,0
+1,27,Tottenham,Manchester City,-1
+1,27,Manchester United,Ipswich,1
+1,27,Nottingham Forest,Arsenal,0
+1,27,Liverpool,Newcastle United,1
+1,27,West Ham United,Leicester City,1
+1,28,Nottingham Forest,Manchester City,1
+1,28,Liverpool,Southampton,1
+1,28,Crystal Palace,Ipswich,1
+1,28,Brighton,Fulham,1
+1,28,Brentford,Aston Villa,-1
+1,28,Wolverhampton,Everton,0
+1,28,Tottenham,Bournemouth,0
+1,28,Chelsea,Leicester City,1
+1,28,Manchester United,Arsenal,0
+1,29,Aston Villa,Liverpool,0
+1,29,Everton,West Ham United,0
+1,29,Southampton,Wolverhampton,-1
+1,29,Ipswich,Nottingham Forest,-1
+1,29,Manchester City,Brighton,0
+1,29,Bournemouth,Brentford,-1
+1,29,Arsenal,Chelsea,1
+1,29,Fulham,Tottenham,1
+1,29,Leicester City,Manchester United,-1
+1,30,Wolverhampton,West Ham United,1
+1,30,Arsenal,Fulham,1
+1,30,Nottingham Forest,Manchester United,1
+1,30,Southampton,Crystal Palace,0
+1,30,Bournemouth,Ipswich,-1
+1,30,Brighton,Aston Villa,-1
+1,30,Newcastle United,Brentford,1
+1,30,Manchester City,Leicester City,1
+1,30,Liverpool,Everton,1
+1,30,Chelsea,Tottenham,1
+1,31,Everton,Arsenal,0
+1,31,West Ham United,Bournemouth,0
+1,31,Ipswich,Wolverhampton,-1
+1,31,Crystal Palace,Brighton,1
+1,31,Aston Villa,Nottingham Forest,1
+1,31,Tottenham,Southampton,1
+1,31,Brentford,Chelsea,0
+1,31,Fulham,Liverpool,1
+1,31,Manchester United,Manchester City,0
+1,31,Leicester City,Newcastle United,-1
+1,32,Manchester City,Crystal Palace,1
+1,32,Southampton,Aston Villa,-1
+1,32,Nottingham Forest,Everton,-1
+1,32,Brighton,Leicester City,0
+1,32,Arsenal,Brentford,0
+1,32,Chelsea,Ipswich,0
+1,32,Wolverhampton,Tottenham,1
+1,32,Liverpool,West Ham United,1
+1,32,Newcastle United,Manchester United,1
+1,32,Bournemouth,Fulham,1
+1,29,Newcastle United,Crystal Palace,1
+1,33,Brentford,Brighton,1
+1,33,West Ham United,Southampton,0
+1,33,Everton,Manchester City,-1
+1,33,Crystal Palace,Bournemouth,0
+1,33,Aston Villa,Newcastle United,1
+1,33,Ipswich,Arsenal,-1
+1,33,Manchester United,Wolverhampton,-1
+1,33,Fulham,Chelsea,-1
+1,33,Leicester City,Liverpool,-1
+1,33,Tottenham,Nottingham Forest,-1
+1,34,Manchester City,Aston Villa,1
+1,34,Arsenal,Crystal Palace,0
+1,34,Chelsea,Everton,1
+1,34,Wolverhampton,Leicester City,1
+1,34,Newcastle United,Ipswich,1
+1,34,Brighton,West Ham United,1
+1,34,Southampton,Fulham,-1
+1,34,Bournemouth,Manchester United,0
+1,34,Liverpool,Tottenham,1
+1,34,Nottingham Forest,Brentford,-1
+1,35,Manchester City,Wolverhampton,1
+1,35,Aston Villa,Fulham,1
+1,35,Leicester City,Southampton,1
+1,35,Everton,Ipswich,0
+1,35,Arsenal,Bournemouth,-1
+1,35,Brighton,Newcastle United,0
+1,35,Brentford,Manchester United,1
+1,35,West Ham United,Tottenham,0
+1,35,Chelsea,Liverpool,1
+1,35,Crystal Palace,Nottingham Forest,0
+1,36,Southampton,Manchester City,0
+1,36,Fulham,Everton,-1
+1,36,Wolverhampton,Brighton,-1
+1,36,Ipswich,Brentford,-1
+1,36,Bournemouth,Aston Villa,-1
+1,36,Newcastle United,Chelsea,1
+1,36,Manchester United,West Ham United,-1
+1,36,Nottingham Forest,Leicester City,0
+1,36,Tottenham,Crystal Palace,-1
+1,36,Liverpool,Arsenal,0
+1,37,Aston Villa,Tottenham,1
+1,37,Chelsea,Manchester United,1
+1,37,Everton,Southampton,1
+1,37,West Ham United,Nottingham Forest,-1
+1,37,Brentford,Fulham,-1
+1,37,Leicester City,Ipswich,1
+1,37,Arsenal,Newcastle United,1
+1,37,Brighton,Liverpool,1
+1,37,Crystal Palace,Wolverhampton,1
+1,37,Manchester City,Bournemouth,1
+1,38,Bournemouth,Leicester City,1
+1,38,Fulham,Manchester City,-1
+1,38,Wolverhampton,Brentford,0
+1,38,Nottingham Forest,Chelsea,-1
+1,38,Manchester United,Aston Villa,1
+1,38,Southampton,Arsenal,-1
+1,38,Newcastle United,Everton,-1
+1,38,Liverpool,Crystal Palace,0
+1,38,Ipswich,West Ham United,-1
+1,38,Tottenham,Brighton,-1
+2,1,Athletic Bilbao,Getafe,0
+2,1,Real Betis,Girona,0
+2,1,Celta,Alavés,1
+2,1,Las Palmas,Sevilla,0
+2,1,Osasuna,Leganés,0
+2,1,Valencia,Barcelona,-1
+2,1,Real Sociedad,Rayo Vallecano,-1
+2,1,Mallorca,Real Madrid,0
+2,1,Valladolid,Espanyol,1
+2,1,Villarreal,Atletico Madrid,0
+2,2,Celta,Valencia,1
+2,2,Sevilla,Villarreal,-1
+2,2,Osasuna,Mallorca,1
+2,2,Barcelona,Athletic Bilbao,1
+2,2,Espanyol,Real Sociedad,-1
+2,2,Getafe,Rayo Vallecano,0
+2,2,Real Madrid,Valladolid,1
+2,2,Leganés,Las Palmas,1
+2,2,Alavés,Real Betis,0
+2,2,Atletico Madrid,Girona,1
+2,3,Villarreal,Celta,1
+2,3,Mallorca,Sevilla,0
+2,3,Rayo Vallecano,Barcelona,-1
+2,3,Valladolid,Leganés,0
+2,3,Athletic Bilbao,Valencia,1
+2,3,Atletico Madrid,Espanyol,0
+2,3,Real Sociedad,Alavés,-1
+2,3,Girona,Osasuna,1
+2,3,Las Palmas,Real Madrid,0
+2,4,Barcelona,Valladolid,1
+2,4,Athletic Bilbao,Atletico Madrid,-1
+2,4,Espanyol,Rayo Vallecano,1
+2,4,Leganés,Mallorca,-1
+2,4,Valencia,Villarreal,0
+2,4,Alavés,Las Palmas,1
+2,4,Osasuna,Celta,1
+2,4,Sevilla,Girona,-1
+2,4,Getafe,Real Sociedad,0
+2,4,Real Madrid,Real Betis,1
+2,3,Real Betis,Getafe,1
+2,5,Real Betis,Leganés,1
+2,5,Mallorca,Villarreal,-1
+2,5,Espanyol,Alavés,1
+2,5,Sevilla,Getafe,1
+2,5,Real Sociedad,Real Madrid,-1
+2,5,Celta,Valladolid,1
+2,5,Girona,Barcelona,-1
+2,5,Las Palmas,Athletic Bilbao,-1
+2,5,Atletico Madrid,Valencia,1
+2,5,Rayo Vallecano,Osasuna,1
+2,6,Alavés,Sevilla,1
+2,6,Valladolid,Real Sociedad,0
+2,6,Osasuna,Las Palmas,1
+2,6,Valencia,Girona,1
+2,6,Real Madrid,Espanyol,1
+2,6,Getafe,Leganés,0
+2,6,Athletic Bilbao,Celta,1
+2,6,Villarreal,Barcelona,-1
+2,6,Rayo Vallecano,Atletico Madrid,0
+2,6,Real Betis,Mallorca,-1
+2,7,Mallorca,Real Sociedad,1
+2,7,Leganés,Athletic Bilbao,-1
+2,7,Sevilla,Valladolid,1
+2,7,Valencia,Osasuna,0
+2,7,Real Madrid,Alavés,1
+2,7,Girona,Rayo Vallecano,0
+2,7,Barcelona,Getafe,1
+2,7,Las Palmas,Real Betis,0
+2,7,Espanyol,Villarreal,-1
+2,7,Celta,Atletico Madrid,-1
+2,8,Valladolid,Mallorca,-1
+2,8,Getafe,Alavés,1
+2,8,Rayo Vallecano,Leganés,0
+2,8,Real Sociedad,Valencia,1
+2,8,Osasuna,Barcelona,1
+2,8,Celta,Girona,0
+2,8,Athletic Bilbao,Sevilla,0
+2,8,Real Betis,Espanyol,1
+2,8,Atletico Madrid,Real Madrid,0
+2,8,Villarreal,Las Palmas,1
+2,9,Leganés,Valencia,0
+2,9,Espanyol,Mallorca,1
+2,9,Getafe,Osasuna,0
+2,9,Valladolid,Rayo Vallecano,-1
+2,9,Las Palmas,Celta,-1
+2,9,Real Madrid,Villarreal,1
+2,9,Girona,Athletic Bilbao,1
+2,9,Alavés,Barcelona,-1
+2,9,Sevilla,Real Betis,-1
+2,9,Real Sociedad,Atletico Madrid,0
+2,10,Alavés,Valladolid,-1
+2,10,Athletic Bilbao,Espanyol,1
+2,10,Osasuna,Real Betis,-1
+2,10,Girona,Real Sociedad,-1
+2,10,Celta,Real Madrid,-1
+2,10,Mallorca,Rayo Vallecano,1
+2,10,Atletico Madrid,Leganés,1
+2,10,Villarreal,Getafe,0
+2,10,Barcelona,Sevilla,1
+2,10,Valencia,Las Palmas,-1
+2,11,Espanyol,Sevilla,-1
+2,11,Valladolid,Villarreal,-1
+2,11,Rayo Vallecano,Alavés,1
+2,11,Las Palmas,Girona,1
+2,11,Real Madrid,Barcelona,-1
+2,11,Leganés,Celta,1
+2,11,Getafe,Valencia,0
+2,11,Real Betis,Atletico Madrid,1
+2,11,Real Sociedad,Osasuna,-1
+2,11,Mallorca,Athletic Bilbao,0
+2,12,Alavés,Mallorca,1
+2,12,Osasuna,Valladolid,1
+2,12,Girona,Leganés,1
+2,12,Atletico Madrid,Las Palmas,1
+2,12,Barcelona,Espanyol,1
+2,12,Sevilla,Real Sociedad,-1
+2,12,Athletic Bilbao,Real Betis,0
+2,12,Celta,Getafe,1
+2,13,Rayo Vallecano,Las Palmas,-1
+2,13,Real Madrid,Osasuna,1
+2,13,Villarreal,Alavés,1
+2,13,Leganés,Sevilla,1
+2,13,Real Betis,Celta,0
+2,13,Mallorca,Atletico Madrid,-1
+2,13,Getafe,Girona,-1
+2,13,Valladolid,Athletic Bilbao,0
+2,13,Real Sociedad,Barcelona,1
+2,14,Getafe,Valladolid,1
+2,14,Valencia,Real Betis,1
+2,14,Atletico Madrid,Alavés,1
+2,14,Girona,Espanyol,1
+2,14,Las Palmas,Mallorca,-1
+2,14,Celta,Barcelona,0
+2,14,Osasuna,Villarreal,0
+2,14,Sevilla,Rayo Vallecano,1
+2,14,Leganés,Real Madrid,-1
+2,14,Athletic Bilbao,Real Sociedad,1
+2,15,Mallorca,Valencia,1
+2,15,Barcelona,Las Palmas,-1
+2,15,Alavés,Leganés,0
+2,15,Espanyol,Celta,1
+2,15,Valladolid,Atletico Madrid,-1
+2,15,Villarreal,Girona,0
+2,15,Real Madrid,Getafe,1
+2,15,Rayo Vallecano,Athletic Bilbao,-1
+2,15,Real Sociedad,Real Betis,1
+2,15,Sevilla,Osasuna,0
+2,19,Mallorca,Barcelona,-1
+2,19,Athletic Bilbao,Real Madrid,1
+2,16,Celta,Mallorca,1
+2,16,Las Palmas,Valladolid,1
+2,16,Real Betis,Barcelona,0
+2,16,Valencia,Rayo Vallecano,-1
+2,16,Girona,Real Madrid,-1
+2,16,Leganés,Real Sociedad,-1
+2,16,Athletic Bilbao,Villarreal,1
+2,16,Osasuna,Alavés,0
+2,16,Atletico Madrid,Sevilla,1
+2,16,Getafe,Espanyol,1
+2,17,Valladolid,Valencia,1
+2,17,Espanyol,Osasuna,0
+2,17,Mallorca,Girona,1
+2,17,Sevilla,Celta,1
+2,17,Rayo Vallecano,Real Madrid,0
+2,17,Atletico Madrid,Getafe,1
+2,17,Alavés,Athletic Bilbao,0
+2,17,Villarreal,Real Betis,-1
+2,17,Real Sociedad,Las Palmas,0
+2,17,Barcelona,Leganés,-1
+2,12,Villarreal,Rayo Vallecano,0
+2,13,Espanyol,Valencia,0
+2,18,Girona,Valladolid,1
+2,18,Getafe,Mallorca,-1
+2,18,Celta,Real Sociedad,1
+2,18,Osasuna,Athletic Bilbao,-1
+2,18,Barcelona,Atletico Madrid,-1
+2,18,Valencia,Alavés,0
+2,18,Real Madrid,Sevilla,1
+2,18,Las Palmas,Espanyol,1
+2,18,Leganés,Villarreal,-1
+2,18,Real Betis,Rayo Vallecano,0
+2,12,Valencia,Real Madrid,-1
+2,19,Rayo Vallecano,Celta,1
+2,19,Alavés,Girona,0
+2,19,Valladolid,Real Betis,1
+2,19,Espanyol,Leganés,0
+2,19,Sevilla,Valencia,0
+2,19,Las Palmas,Getafe,0
+2,19,Atletico Madrid,Osasuna,1
+2,19,Real Sociedad,Villarreal,1
+2,20,Espanyol,Valladolid,1
+2,20,Girona,Sevilla,0
+2,20,Leganés,Atletico Madrid,1
+2,20,Real Betis,Alavés,0
+2,20,Getafe,Barcelona,0
+2,20,Celta,Athletic Bilbao,0
+2,20,Real Madrid,Las Palmas,1
+2,20,Osasuna,Rayo Vallecano,0
+2,20,Valencia,Real Sociedad,1
+2,20,Villarreal,Mallorca,1
+2,21,Las Palmas,Osasuna,0
+2,21,Mallorca,Real Betis,0
+2,21,Atletico Madrid,Villarreal,0
+2,21,Sevilla,Espanyol,0
+2,21,Valladolid,Real Madrid,0
+2,21,Rayo Vallecano,Girona,1
+2,21,Real Sociedad,Getafe,0
+2,21,Athletic Bilbao,Leganés,0
+2,21,Barcelona,Valencia,1
+2,21,Alavés,Celta,0
+2,22,Leganés,Rayo Vallecano,0
+2,22,Getafe,Sevilla,0
+2,22,Villarreal,Valladolid,1
+2,22,Atletico Madrid,Mallorca,1
+2,22,Espanyol,Real Madrid,0
+2,22,Barcelona,Alavés,1
+2,22,Valencia,Celta,1
+2,22,Osasuna,Real Sociedad,0
+2,22,Real Betis,Athletic Bilbao,0
+2,22,Girona,Las Palmas,1
+2,23,Rayo Vallecano,Valladolid,1
+2,23,Celta,Real Betis,1
+2,23,Athletic Bilbao,Girona,1
+2,23,Las Palmas,Villarreal,0
+2,23,Real Madrid,Atletico Madrid,0
+2,23,Alavés,Getafe,-1
+2,23,Valencia,Leganés,1
+2,23,Real Sociedad,Espanyol,0
+2,23,Sevilla,Barcelona,-1
+2,23,Mallorca,Osasuna,0
+2,24,Girona,Getafe,-1
+2,24,Leganés,Alavés,0
+2,24,Osasuna,Real Madrid,0
+2,24,Atletico Madrid,Celta,0
+2,24,Villarreal,Valencia,0
+2,24,Espanyol,Athletic Bilbao,0
+2,24,Valladolid,Sevilla,-1
+2,24,Mallorca,Las Palmas,1
+2,24,Real Betis,Real Sociedad,1
+2,24,Barcelona,Rayo Vallecano,1
+2,25,Celta,Osasuna,1
+2,25,Alavés,Espanyol,-1
+2,25,Rayo Vallecano,Villarreal,-1
+2,25,Valencia,Atletico Madrid,-1
+2,25,Las Palmas,Barcelona,-1
+2,25,Athletic Bilbao,Valladolid,1
+2,25,Real Madrid,Girona,1
+2,25,Getafe,Real Betis,-1
+2,25,Real Sociedad,Leganés,1
+2,25,Sevilla,Mallorca,0
+2,26,Valladolid,Las Palmas,0
+2,26,Girona,Celta,0
+2,26,Rayo Vallecano,Sevilla,0
+2,26,Real Betis,Real Madrid,1
+2,26,Atletico Madrid,Athletic Bilbao,1
+2,26,Leganés,Getafe,1
+2,26,Barcelona,Real Sociedad,1
+2,26,Mallorca,Alavés,0
+2,26,Osasuna,Valencia,0
+2,27,Celta,Leganés,1
+2,27,Alavés,Villarreal,-1
+2,27,Valencia,Valladolid,1
+2,27,Getafe,Atletico Madrid,-1
+2,27,Real Madrid,Rayo Vallecano,1
+2,27,Athletic Bilbao,Mallorca,0
+2,27,Real Betis,Las Palmas,1
+2,27,Real Sociedad,Sevilla,-1
+2,27,Espanyol,Girona,0
+2,28,Las Palmas,Alavés,0
+2,28,Valladolid,Celta,-1
+2,28,Mallorca,Espanyol,1
+2,28,Villarreal,Real Madrid,-1
+2,28,Girona,Valencia,0
+2,28,Leganés,Real Betis,-1
+2,28,Sevilla,Athletic Bilbao,-1
+2,28,Osasuna,Getafe,-1
+2,28,Rayo Vallecano,Real Sociedad,0
+2,28,Atletico Madrid,Barcelona,-1
+2,27,Barcelona,Osasuna,1
+2,29,Real Sociedad,Valladolid,1
+2,29,Espanyol,Atletico Madrid,0
+2,29,Alavés,Rayo Vallecano,-1
+2,29,Real Madrid,Leganés,1
+2,29,Getafe,Villarreal,-1
+2,29,Barcelona,Girona,1
+2,29,Valencia,Mallorca,1
+2,29,Athletic Bilbao,Osasuna,0
+2,29,Real Betis,Sevilla,1
+2,29,Celta,Las Palmas,0
+2,30,Rayo Vallecano,Espanyol,-1
+2,30,Girona,Alavés,-1
+2,30,Real Madrid,Valencia,-1
+2,30,Mallorca,Celta,-1
+2,30,Barcelona,Real Betis,0
+2,30,Las Palmas,Real Sociedad,-1
+2,30,Sevilla,Atletico Madrid,-1
+2,30,Valladolid,Getafe,-1
+2,30,Villarreal,Athletic Bilbao,0
+2,30,Leganés,Osasuna,0
+2,31,Valencia,Sevilla,1
+2,31,Real Sociedad,Mallorca,-1
+2,31,Getafe,Las Palmas,-1
+2,31,Celta,Espanyol,-1
+2,31,Leganés,Barcelona,-1
+2,31,Osasuna,Girona,1
+2,31,Alavés,Real Madrid,0
+2,31,Real Betis,Villarreal,-1
+2,31,Athletic Bilbao,Rayo Vallecano,1
+2,31,Atletico Madrid,Valladolid,1
+2,32,Espanyol,Getafe,1
+2,32,Rayo Vallecano,Valencia,0
+2,32,Barcelona,Celta,1
+2,32,Mallorca,Leganés,0
+2,32,Las Palmas,Atletico Madrid,-1
+2,32,Valladolid,Osasuna,-1
+2,32,Villarreal,Real Sociedad,0
+2,32,Sevilla,Alavés,0
+2,32,Real Madrid,Athletic Bilbao,1
+2,32,Girona,Real Betis,-1
+2,33,Valencia,Espanyol,0
+2,33,Barcelona,Mallorca,1
+2,33,Celta,Villarreal,1
+2,33,Athletic Bilbao,Las Palmas,1
+2,33,Getafe,Real Madrid,-1
+2,33,Alavés,Real Sociedad,1
+2,33,Osasuna,Sevilla,0
+2,33,Leganés,Girona,0
+2,33,Atletico Madrid,Rayo Vallecano,1
+2,33,Real Betis,Valladolid,1
+2,26,Villarreal,Espanyol,1
+2,34,Rayo Vallecano,Getafe,1
+2,34,Alavés,Atletico Madrid,0
+2,34,Villarreal,Osasuna,1
+2,34,Las Palmas,Valencia,-1
+2,34,Valladolid,Barcelona,-1
+2,34,Real Madrid,Celta,1
+2,34,Sevilla,Leganés,0
+2,34,Espanyol,Real Betis,-1
+2,34,Real Sociedad,Athletic Bilbao,0
+2,34,Girona,Mallorca,1
+2,35,Las Palmas,Rayo Vallecano,-1
+2,35,Valencia,Getafe,1
+2,35,Celta,Sevilla,1
+2,35,Girona,Villarreal,-1
+2,35,Mallorca,Valladolid,1
+2,35,Atletico Madrid,Real Sociedad,1
+2,35,Leganés,Espanyol,1
+2,35,Barcelona,Real Madrid,1
+2,35,Athletic Bilbao,Alavés,1
+2,35,Real Betis,Osasuna,0
+2,36,Valladolid,Girona,-1
+2,36,Real Sociedad,Celta,-1
+2,36,Sevilla,Las Palmas,1
+2,36,Alavés,Valencia,1
+2,36,Villarreal,Leganés,1
+2,36,Real Madrid,Mallorca,1
+2,36,Rayo Vallecano,Real Betis,0
+2,36,Osasuna,Atletico Madrid,1
+2,36,Getafe,Athletic Bilbao,-1
+2,36,Espanyol,Barcelona,-1
+2,37,Las Palmas,Leganés,-1
+2,37,Valladolid,Alavés,-1
+2,37,Osasuna,Espanyol,1
+2,37,Celta,Rayo Vallecano,-1
+2,37,Barcelona,Villarreal,-1
+2,37,Real Sociedad,Girona,1
+2,37,Sevilla,Real Madrid,-1
+2,37,Mallorca,Getafe,-1
+2,37,Valencia,Athletic Bilbao,-1
+2,37,Atletico Madrid,Real Betis,1
+2,38,Real Betis,Valencia,0
+2,38,Real Madrid,Real Sociedad,1
+2,38,Leganés,Valladolid,1
+2,38,Espanyol,Las Palmas,1
+2,38,Getafe,Celta,-1
+2,38,Rayo Vallecano,Mallorca,0
+2,38,Alavés,Osasuna,0
+2,38,Girona,Atletico Madrid,-1
+2,38,Villarreal,Sevilla,1
+2,38,Athletic Bilbao,Barcelona,-1
+3,1,Mönchengladbach,Leverkusen,-1
+3,1,RB Leipzig,Bochum,1
+3,1,Hoffenheim,Holstein Kiel,1
+3,1,Mainz 05,Union Berlin,0
+3,1,Freiburg,Stuttgart,1
+3,1,Augsburg,Werder Bremen,0
+3,1,Borussia Dortmund,Eintracht Frankfurt,1
+3,1,Wolfsburg,Bayern Münih,-1
+3,1,St. Pauli,Heidenheim,-1
+3,2,Union Berlin,St. Pauli,1
+3,2,Werder Bremen,Borussia Dortmund,-1
+3,2,Holstein Kiel,Wolfsburg,-1
+3,2,Stuttgart,Mainz 05,0
+3,2,Eintracht Frankfurt,Hoffenheim,1
+3,2,Bochum,Mönchengladbach,-1
+3,2,Leverkusen,RB Leipzig,-1
+3,2,Heidenheim,Augsburg,1
+3,2,Bayern Münih,Freiburg,1
+3,3,Borussia Dortmund,Heidenheim,1
+3,3,Freiburg,Bochum,1
+3,3,Wolfsburg,Eintracht Frankfurt,-1
+3,3,Mönchengladbach,Stuttgart,-1
+3,3,RB Leipzig,Union Berlin,0
+3,3,Hoffenheim,Leverkusen,-1
+3,3,Holstein Kiel,Bayern Münih,-1
+3,3,Augsburg,St. Pauli,1
+3,3,Mainz 05,Werder Bremen,-1
+3,4,Augsburg,Mainz 05,-1
+3,4,Bochum,Holstein Kiel,0
+3,4,Heidenheim,Freiburg,-1
+3,4,Union Berlin,Hoffenheim,1
+3,4,Werder Bremen,Bayern Münih,-1
+3,4,Eintracht Frankfurt,Mönchengladbach,1
+3,4,Leverkusen,Wolfsburg,1
+3,4,Stuttgart,Borussia Dortmund,1
+3,4,St. Pauli,RB Leipzig,0
+3,5,Borussia Dortmund,Bochum,1
+3,5,Mainz 05,Heidenheim,-1
+3,5,Wolfsburg,Stuttgart,0
+3,5,Freiburg,St. Pauli,-1
+3,5,RB Leipzig,Augsburg,1
+3,5,Mönchengladbach,Union Berlin,1
+3,5,Bayern Münih,Leverkusen,0
+3,5,Holstein Kiel,Eintracht Frankfurt,-1
+3,5,Hoffenheim,Werder Bremen,-1
+3,6,Augsburg,Mönchengladbach,1
+3,6,Werder Bremen,Freiburg,-1
+3,6,Union Berlin,Borussia Dortmund,1
+3,6,Bochum,Wolfsburg,-1
+3,6,Leverkusen,Holstein Kiel,0
+3,6,St. Pauli,Mainz 05,-1
+3,6,Heidenheim,RB Leipzig,-1
+3,6,Eintracht Frankfurt,Bayern Münih,0
+3,6,Stuttgart,Hoffenheim,0
+3,7,Borussia Dortmund,St. Pauli,1
+3,7,Hoffenheim,Bochum,1
+3,7,Freiburg,Augsburg,1
+3,7,Leverkusen,Eintracht Frankfurt,1
+3,7,Mönchengladbach,Heidenheim,1
+3,7,Mainz 05,RB Leipzig,-1
+3,7,Bayern Münih,Stuttgart,1
+3,7,Holstein Kiel,Union Berlin,-1
+3,7,Wolfsburg,Werder Bremen,-1
+3,8,Mainz 05,Mönchengladbach,0
+3,8,RB Leipzig,Freiburg,1
+3,8,Augsburg,Borussia Dortmund,-1
+3,8,St. Pauli,Wolfsburg,0
+3,8,Stuttgart,Holstein Kiel,1
+3,8,Werder Bremen,Leverkusen,0
+3,8,Bochum,Bayern Münih,-1
+3,8,Union Berlin,Eintracht Frankfurt,0
+3,8,Heidenheim,Hoffenheim,0
+3,9,Leverkusen,Stuttgart,0
+3,9,Eintracht Frankfurt,Bochum,1
+3,9,Holstein Kiel,Heidenheim,1
+3,9,Wolfsburg,Augsburg,0
+3,9,Bayern Münih,Union Berlin,1
+3,9,Hoffenheim,St. Pauli,-1
+3,9,Borussia Dortmund,RB Leipzig,1
+3,9,Freiburg,Mainz 05,0
+3,9,Mönchengladbach,Werder Bremen,1
+3,10,Union Berlin,Freiburg,0
+3,10,Werder Bremen,Holstein Kiel,1
+3,10,Bochum,Leverkusen,0
+3,10,Mainz 05,Borussia Dortmund,1
+3,10,St. Pauli,Bayern Münih,-1
+3,10,RB Leipzig,Mönchengladbach,0
+3,10,Augsburg,Hoffenheim,0
+3,10,Stuttgart,Eintracht Frankfurt,-1
+3,10,Heidenheim,Wolfsburg,-1
+3,11,Bayern Münih,Augsburg,1
+3,11,Borussia Dortmund,Freiburg,1
+3,11,Wolfsburg,Union Berlin,1
+3,11,Leverkusen,Heidenheim,1
+3,11,Stuttgart,Bochum,1
+3,11,Hoffenheim,RB Leipzig,1
+3,11,Eintracht Frankfurt,Werder Bremen,1
+3,11,Holstein Kiel,Mainz 05,-1
+3,11,Mönchengladbach,St. Pauli,1
+3,12,St. Pauli,Holstein Kiel,1
+3,12,Union Berlin,Leverkusen,-1
+3,12,Augsburg,Bochum,1
+3,12,Werder Bremen,Stuttgart,0
+3,12,RB Leipzig,Wolfsburg,-1
+3,12,Freiburg,Mönchengladbach,1
+3,12,Borussia Dortmund,Bayern Münih,0
+3,12,Mainz 05,Hoffenheim,1
+3,12,Heidenheim,Eintracht Frankfurt,-1
+3,13,Stuttgart,Union Berlin,1
+3,13,Leverkusen,St. Pauli,1
+3,13,Bayern Münih,Heidenheim,1
+3,13,Holstein Kiel,RB Leipzig,-1
+3,13,Eintracht Frankfurt,Augsburg,0
+3,13,Bochum,Werder Bremen,-1
+3,13,Mönchengladbach,Borussia Dortmund,0
+3,13,Wolfsburg,Mainz 05,1
+3,13,Hoffenheim,Freiburg,0
+3,14,Freiburg,Wolfsburg,1
+3,14,Mainz 05,Bayern Münih,-1
+3,14,Mönchengladbach,Holstein Kiel,1
+3,14,Augsburg,Leverkusen,-1
+3,14,Union Berlin,Bochum,-1
+3,14,St. Pauli,Werder Bremen,-1
+3,14,Heidenheim,Stuttgart,-1
+3,14,Borussia Dortmund,Hoffenheim,0
+3,14,RB Leipzig,Eintracht Frankfurt,1
+3,15,Bayern Münih,RB Leipzig,1
+3,15,Stuttgart,St. Pauli,-1
+3,15,Eintracht Frankfurt,Mainz 05,-1
+3,15,Holstein Kiel,Augsburg,1
+3,15,Werder Bremen,Union Berlin,1
+3,15,Hoffenheim,Mönchengladbach,-1
+3,15,Leverkusen,Freiburg,1
+3,15,Bochum,Heidenheim,1
+3,15,Wolfsburg,Borussia Dortmund,-1
+3,16,Borussia Dortmund,Leverkusen,-1
+3,16,St. Pauli,Eintracht Frankfurt,-1
+3,16,Freiburg,Holstein Kiel,1
+3,16,Hoffenheim,Wolfsburg,-1
+3,16,Mainz 05,Bochum,1
+3,16,Heidenheim,Union Berlin,-1
+3,16,Mönchengladbach,Bayern Münih,-1
+3,16,RB Leipzig,Werder Bremen,1
+3,16,Augsburg,Stuttgart,-1
+3,17,Holstein Kiel,Borussia Dortmund,1
+3,17,Wolfsburg,Mönchengladbach,1
+3,17,Leverkusen,Mainz 05,1
+3,17,Eintracht Frankfurt,Freiburg,1
+3,17,Bochum,St. Pauli,1
+3,17,Werder Bremen,Heidenheim,0
+3,17,Union Berlin,Augsburg,-1
+3,17,Stuttgart,RB Leipzig,1
+3,17,Bayern Münih,Hoffenheim,1
+3,18,Eintracht Frankfurt,Borussia Dortmund,1
+3,18,Heidenheim,St. Pauli,-1
+3,18,Bayern Münih,Wolfsburg,1
+3,18,Holstein Kiel,Hoffenheim,-1
+3,18,Stuttgart,Freiburg,1
+3,18,Bochum,RB Leipzig,0
+3,18,Leverkusen,Mönchengladbach,1
+3,18,Union Berlin,Mainz 05,1
+3,18,Werder Bremen,Augsburg,-1
+3,19,Wolfsburg,Holstein Kiel,0
+3,19,Mainz 05,Stuttgart,1
+3,19,RB Leipzig,Leverkusen,0
+3,19,Augsburg,Heidenheim,1
+3,19,Freiburg,Bayern Münih,-1
+3,19,Borussia Dortmund,Werder Bremen,0
+3,19,Mönchengladbach,Bochum,1
+3,19,Hoffenheim,Eintracht Frankfurt,0
+3,19,St. Pauli,Union Berlin,1
+3,20,Werder Bremen,Mainz 05,-1
+3,20,St. Pauli,Augsburg,0
+3,20,Bayern Münih,Holstein Kiel,1
+3,20,Bochum,Freiburg,-1
+3,20,Stuttgart,Mönchengladbach,-1
+3,20,Heidenheim,Borussia Dortmund,-1
+3,20,Union Berlin,RB Leipzig,0
+3,20,Eintracht Frankfurt,Wolfsburg,0
+3,20,Leverkusen,Hoffenheim,1
+3,21,Bayern Münih,Werder Bremen,1
+3,21,Wolfsburg,Leverkusen,0
+3,21,Hoffenheim,Union Berlin,-1
+3,21,Borussia Dortmund,Stuttgart,-1
+3,21,Freiburg,Heidenheim,1
+3,21,Mainz 05,Augsburg,0
+3,21,Mönchengladbach,Eintracht Frankfurt,0
+3,21,Holstein Kiel,Bochum,0
+3,21,RB Leipzig,St. Pauli,1
+3,22,Augsburg,RB Leipzig,0
+3,22,Union Berlin,Mönchengladbach,-1
+3,22,St. Pauli,Freiburg,-1
+3,22,Bochum,Borussia Dortmund,-1
+3,22,Stuttgart,Wolfsburg,-1
+3,22,Leverkusen,Bayern Münih,0
+3,22,Werder Bremen,Hoffenheim,-1
+3,22,Eintracht Frankfurt,Holstein Kiel,1
+3,22,Heidenheim,Mainz 05,-1
+3,23,Freiburg,Werder Bremen,1
+3,23,Mönchengladbach,Augsburg,-1
+3,23,Wolfsburg,Bochum,0
+3,23,Mainz 05,St. Pauli,1
+3,23,Holstein Kiel,Leverkusen,-1
+3,23,Borussia Dortmund,Union Berlin,1
+3,23,RB Leipzig,Heidenheim,0
+3,23,Bayern Münih,Eintracht Frankfurt,1
+3,23,Hoffenheim,Stuttgart,0
+3,24,Stuttgart,Bayern Münih,-1
+3,24,Werder Bremen,Wolfsburg,-1
+3,24,RB Leipzig,Mainz 05,-1
+3,24,Bochum,Hoffenheim,-1
+3,24,Heidenheim,Mönchengladbach,-1
+3,24,St. Pauli,Borussia Dortmund,-1
+3,24,Eintracht Frankfurt,Leverkusen,-1
+3,24,Union Berlin,Holstein Kiel,-1
+3,24,Augsburg,Freiburg,0
+3,25,Mönchengladbach,Mainz 05,-1
+3,25,Wolfsburg,St. Pauli,0
+3,25,Bayern Münih,Bochum,-1
+3,25,Holstein Kiel,Stuttgart,0
+3,25,Borussia Dortmund,Augsburg,-1
+3,25,Leverkusen,Werder Bremen,-1
+3,25,Freiburg,RB Leipzig,0
+3,25,Eintracht Frankfurt,Union Berlin,-1
+3,25,Hoffenheim,Heidenheim,0
+3,26,St. Pauli,Hoffenheim,1
+3,26,Union Berlin,Bayern Münih,0
+3,26,Mainz 05,Freiburg,0
+3,26,Augsburg,Wolfsburg,1
+3,26,Werder Bremen,Mönchengladbach,-1
+3,26,RB Leipzig,Borussia Dortmund,1
+3,26,Bochum,Eintracht Frankfurt,-1
+3,26,Heidenheim,Holstein Kiel,1
+3,26,Stuttgart,Leverkusen,-1
+3,27,Leverkusen,Bochum,1
+3,27,Bayern Münih,St. Pauli,1
+3,27,Mönchengladbach,RB Leipzig,1
+3,27,Wolfsburg,Heidenheim,-1
+3,27,Holstein Kiel,Werder Bremen,-1
+3,27,Hoffenheim,Augsburg,0
+3,27,Eintracht Frankfurt,Stuttgart,1
+3,27,Freiburg,Union Berlin,-1
+3,27,Borussia Dortmund,Mainz 05,1
+3,28,Augsburg,Bayern Münih,-1
+3,28,Heidenheim,Leverkusen,-1
+3,28,Freiburg,Borussia Dortmund,-1
+3,28,Mainz 05,Holstein Kiel,0
+3,28,RB Leipzig,Hoffenheim,1
+3,28,Bochum,Stuttgart,-1
+3,28,Werder Bremen,Eintracht Frankfurt,1
+3,28,St. Pauli,Mönchengladbach,0
+3,28,Union Berlin,Wolfsburg,1
+3,29,Wolfsburg,RB Leipzig,-1
+3,29,Hoffenheim,Mainz 05,1
+3,29,Mönchengladbach,Freiburg,-1
+3,29,Bochum,Augsburg,-1
+3,29,Leverkusen,Union Berlin,0
+3,29,Holstein Kiel,St. Pauli,-1
+3,29,Bayern Münih,Borussia Dortmund,0
+3,29,Stuttgart,Werder Bremen,-1
+3,29,Eintracht Frankfurt,Heidenheim,1
+3,30,Werder Bremen,Bochum,1
+3,30,Mainz 05,Wolfsburg,0
+3,30,RB Leipzig,Holstein Kiel,0
+3,30,Heidenheim,Bayern Münih,-1
+3,30,Freiburg,Hoffenheim,1
+3,30,Union Berlin,Stuttgart,0
+3,30,Augsburg,Eintracht Frankfurt,0
+3,30,Borussia Dortmund,Mönchengladbach,1
+3,30,St. Pauli,Leverkusen,0
+3,31,Stuttgart,Heidenheim,-1
+3,31,Leverkusen,Augsburg,1
+3,31,Holstein Kiel,Mönchengladbach,1
+3,31,Hoffenheim,Borussia Dortmund,-1
+3,31,Bayern Münih,Mainz 05,1
+3,31,Wolfsburg,Freiburg,-1
+3,31,Eintracht Frankfurt,RB Leipzig,1
+3,31,Bochum,Union Berlin,0
+3,31,Werder Bremen,St. Pauli,0
+3,32,Heidenheim,Bochum,0
+3,32,Mönchengladbach,Hoffenheim,0
+3,32,Union Berlin,Werder Bremen,0
+3,32,RB Leipzig,Bayern Münih,0
+3,32,St. Pauli,Stuttgart,-1
+3,32,Borussia Dortmund,Wolfsburg,1
+3,32,Augsburg,Holstein Kiel,-1
+3,32,Freiburg,Leverkusen,0
+3,32,Mainz 05,Eintracht Frankfurt,0
+3,33,Wolfsburg,Hoffenheim,0
+3,33,Holstein Kiel,Freiburg,-1
+3,33,Bochum,Mainz 05,-1
+3,33,Werder Bremen,RB Leipzig,0
+3,33,Union Berlin,Heidenheim,-1
+3,33,Bayern Münih,Mönchengladbach,1
+3,33,Leverkusen,Borussia Dortmund,-1
+3,33,Eintracht Frankfurt,St. Pauli,0
+3,33,Stuttgart,Augsburg,1
+3,34,Hoffenheim,Bayern Münih,-1
+3,34,Heidenheim,Werder Bremen,-1
+3,34,Mönchengladbach,Wolfsburg,-1
+3,34,Augsburg,Union Berlin,-1
+3,34,Borussia Dortmund,Holstein Kiel,1
+3,34,RB Leipzig,Stuttgart,-1
+3,34,Freiburg,Eintracht Frankfurt,-1
+3,34,Mainz 05,Leverkusen,0
+3,34,St. Pauli,Bochum,-1
+4,1,Le Havre,PSG,-1
+4,1,Brest,Marsilya,-1
+4,1,Reims,Lille,-1
+4,1,Monaco,Saint-Étienne,1
+4,1,Auxerre,Nice,1
+4,1,Montpellier,RC Strasbourg,0
+4,1,Toulouse,Nantes,0
+4,1,Angers,Lens,-1
+4,1,Rennes,Lyon,1
+4,2,PSG,Montpellier,1
+4,2,Lyon,Monaco,-1
+4,2,Lille,Angers,1
+4,2,Saint-Étienne,Le Havre,-1
+4,2,Lens,Brest,1
+4,2,RC Strasbourg,Rennes,1
+4,2,Nantes,Auxerre,1
+4,2,Nice,Toulouse,0
+4,2,Marsilya,Reims,0
+4,3,Lyon,RC Strasbourg,1
+4,3,Brest,Saint-Étienne,1
+4,3,Montpellier,Nantes,-1
+4,3,Toulouse,Marsilya,-1
+4,3,Monaco,Lens,0
+4,3,Le Havre,Auxerre,1
+4,3,Reims,Rennes,1
+4,3,Angers,Nice,-1
+4,3,Lille,PSG,-1
+4,4,Saint-Étienne,Lille,1
+4,4,Marsilya,Nice,1
+4,4,Auxerre,Monaco,-1
+4,4,PSG,Brest,1
+4,4,Rennes,Montpellier,1
+4,4,Toulouse,Le Havre,1
+4,4,Nantes,Reims,-1
+4,4,RC Strasbourg,Angers,0
+4,4,Lens,Lyon,0
+4,5,Nice,Saint-Étienne,1
+4,5,Lille,RC Strasbourg,0
+4,5,Rennes,Lens,0
+4,5,Reims,PSG,0
+4,5,Monaco,Le Havre,1
+4,5,Angers,Nantes,0
+4,5,Montpellier,Auxerre,1
+4,5,Brest,Toulouse,1
+4,5,Lyon,Marsilya,-1
+4,6,Auxerre,Brest,1
+4,6,PSG,Rennes,1
+4,6,Lens,Nice,0
+4,6,Le Havre,Lille,-1
+4,6,Monaco,Montpellier,1
+4,6,Toulouse,Lyon,-1
+4,6,Nantes,Saint-Étienne,0
+4,6,Angers,Reims,-1
+4,6,RC Strasbourg,Marsilya,1
+4,7,Marsilya,Angers,0
+4,7,Saint-Étienne,Auxerre,1
+4,7,Lille,Toulouse,1
+4,7,Rennes,Monaco,-1
+4,7,Lyon,Nantes,1
+4,7,Reims,Montpellier,1
+4,7,RC Strasbourg,Lens,0
+4,7,Brest,Le Havre,1
+4,7,Nice,PSG,0
+4,8,Monaco,Lille,0
+4,8,Brest,Rennes,0
+4,8,Saint-Étienne,Lens,-1
+4,8,PSG,RC Strasbourg,1
+4,8,Le Havre,Lyon,-1
+4,8,Toulouse,Angers,0
+4,8,Nantes,Nice,0
+4,8,Auxerre,Reims,1
+4,8,Montpellier,Marsilya,-1
+4,9,Rennes,Le Havre,1
+4,9,Angers,Saint-Étienne,1
+4,9,Reims,Brest,-1
+4,9,Lens,Lille,-1
+4,9,Lyon,Auxerre,0
+4,9,Nice,Monaco,1
+4,9,Montpellier,Toulouse,-1
+4,9,RC Strasbourg,Nantes,1
+4,9,Marsilya,PSG,-1
+4,10,Monaco,Angers,-1
+4,10,Lille,Lyon,0
+4,10,PSG,Lens,1
+4,10,Brest,Nice,-1
+4,10,Saint-Étienne,RC Strasbourg,1
+4,10,Toulouse,Reims,1
+4,10,Auxerre,Rennes,1
+4,10,Le Havre,Montpellier,1
+4,10,Nantes,Marsilya,-1
+4,11,Marsilya,Auxerre,-1
+4,11,RC Strasbourg,Monaco,-1
+4,11,Lens,Nantes,1
+4,11,Angers,PSG,-1
+4,11,Nice,Lille,0
+4,11,Le Havre,Reims,-1
+4,11,Rennes,Toulouse,-1
+4,11,Montpellier,Brest,1
+4,11,Lyon,Saint-Étienne,1
+4,12,Monaco,Brest,1
+4,12,PSG,Toulouse,1
+4,12,Lens,Marsilya,-1
+4,12,Saint-Étienne,Montpellier,1
+4,12,Reims,Lyon,0
+4,12,Lille,Rennes,1
+4,12,Nantes,Le Havre,-1
+4,12,Auxerre,Angers,1
+4,12,Nice,RC Strasbourg,1
+4,13,Reims,Lens,-1
+4,13,Rennes,Saint-Étienne,1
+4,13,Brest,RC Strasbourg,1
+4,13,PSG,Nantes,0
+4,13,Montpellier,Lille,0
+4,13,Toulouse,Auxerre,1
+4,13,Lyon,Nice,1
+4,13,Le Havre,Angers,-1
+4,13,Marsilya,Monaco,1
+4,14,Lille,Brest,1
+4,14,Auxerre,PSG,0
+4,14,Monaco,Toulouse,1
+4,14,Nice,Le Havre,1
+4,14,Angers,Lyon,-1
+4,14,Lens,Montpellier,1
+4,14,Nantes,Rennes,1
+4,14,RC Strasbourg,Reims,0
+4,14,Saint-Étienne,Marsilya,-1
+4,15,Toulouse,Saint-Étienne,1
+4,15,Marsilya,Lille,0
+4,15,Auxerre,Lens,0
+4,15,Reims,Monaco,0
+4,15,Montpellier,Nice,0
+4,15,Brest,Nantes,1
+4,15,Rennes,Angers,1
+4,15,Le Havre,RC Strasbourg,-1
+4,15,PSG,Lyon,1
+4,16,Monaco,PSG,-1
+4,16,Nice,Rennes,1
+4,16,Saint-Étienne,Reims,1
+4,16,Lille,Nantes,0
+4,16,Lyon,Montpellier,1
+4,16,RC Strasbourg,Auxerre,1
+4,16,Angers,Brest,1
+4,16,Lens,Toulouse,-1
+4,16,Marsilya,Le Havre,1
+4,17,Nantes,Monaco,0
+4,17,Auxerre,Lille,0
+4,17,Brest,Lyon,1
+4,17,Reims,Nice,-1
+4,17,Rennes,Marsilya,-1
+4,17,Le Havre,Lens,-1
+4,17,Montpellier,Angers,-1
+4,17,Toulouse,RC Strasbourg,-1
+4,17,PSG,Saint-Étienne,1
+4,18,Montpellier,Monaco,1
+4,18,Lille,Nice,1
+4,18,Lens,PSG,-1
+4,18,Rennes,Brest,-1
+4,18,Lyon,Toulouse,0
+4,18,Saint-Étienne,Nantes,0
+4,18,Angers,Auxerre,1
+4,18,Reims,Le Havre,0
+4,18,Marsilya,RC Strasbourg,0
+4,19,Auxerre,Saint-Étienne,0
+4,19,Monaco,Rennes,1
+4,19,RC Strasbourg,Lille,1
+4,19,PSG,Reims,0
+4,19,Le Havre,Brest,-1
+4,19,Toulouse,Montpellier,-1
+4,19,Nantes,Lyon,0
+4,19,Lens,Angers,1
+4,19,Nice,Marsilya,1
+4,20,Montpellier,Lens,-1
+4,20,Brest,PSG,-1
+4,20,Monaco,Auxerre,1
+4,20,Lille,Saint-Étienne,1
+4,20,Toulouse,Nice,0
+4,20,Rennes,RC Strasbourg,1
+4,20,Reims,Nantes,-1
+4,20,Angers,Le Havre,0
+4,20,Marsilya,Lyon,1
+4,21,Nantes,Brest,-1
+4,21,PSG,Monaco,1
+4,21,Nice,Lens,1
+4,21,Lille,Le Havre,-1
+4,21,Saint-Étienne,Rennes,-1
+4,21,Lyon,Reims,1
+4,21,RC Strasbourg,Montpellier,1
+4,21,Auxerre,Toulouse,0
+4,21,Angers,Marsilya,-1
+4,22,Brest,Auxerre,0
+4,22,Marsilya,Saint-Étienne,1
+4,22,Monaco,Nantes,1
+4,22,Toulouse,PSG,-1
+4,22,Montpellier,Lyon,-1
+4,22,Reims,Angers,-1
+4,22,Le Havre,Nice,-1
+4,22,Lens,RC Strasbourg,-1
+4,22,Rennes,Lille,-1
+4,23,Rennes,Reims,1
+4,23,Lille,Monaco,1
+4,23,Saint-Étienne,Angers,0
+4,23,Auxerre,Marsilya,1
+4,23,Nantes,Lens,1
+4,23,Nice,Montpellier,1
+4,23,Le Havre,Toulouse,-1
+4,23,RC Strasbourg,Brest,0
+4,23,Lyon,PSG,-1
+4,24,Monaco,Reims,1
+4,24,Saint-Étienne,Nice,-1
+4,24,Lens,Le Havre,-1
+4,24,PSG,Lille,1
+4,24,Lyon,Brest,1
+4,24,Montpellier,Rennes,-1
+4,24,Angers,Toulouse,-1
+4,24,Auxerre,RC Strasbourg,-1
+4,24,Marsilya,Nantes,1
+4,25,Toulouse,Monaco,0
+4,25,Rennes,PSG,-1
+4,25,Lille,Montpellier,1
+4,25,Marsilya,Lens,-1
+4,25,Brest,Angers,1
+4,25,Nantes,RC Strasbourg,-1
+4,25,Reims,Auxerre,-1
+4,25,Le Havre,Saint-Étienne,0
+4,25,Nice,Lyon,-1
+4,26,Nice,Auxerre,0
+4,26,Nantes,Lille,-1
+4,26,Angers,Monaco,-1
+4,26,Lens,Rennes,1
+4,26,Lyon,Le Havre,1
+4,26,RC Strasbourg,Toulouse,1
+4,26,Brest,Reims,0
+4,26,Montpellier,Saint-Étienne,-1
+4,26,PSG,Marsilya,1
+4,27,RC Strasbourg,Lyon,1
+4,27,Reims,Marsilya,1
+4,27,Saint-Étienne,PSG,-1
+4,27,Monaco,Nice,1
+4,27,Toulouse,Brest,-1
+4,27,Auxerre,Montpellier,1
+4,27,Angers,Rennes,-1
+4,27,Le Havre,Nantes,1
+4,27,Lille,Lens,1
+4,28,Nice,Nantes,-1
+4,28,PSG,Angers,1
+4,28,Brest,Monaco,1
+4,28,Lyon,Lille,1
+4,28,Lens,Saint-Étienne,1
+4,28,Montpellier,Le Havre,-1
+4,28,Rennes,Auxerre,-1
+4,28,Reims,RC Strasbourg,-1
+4,28,Marsilya,Toulouse,1
+4,29,Nantes,PSG,0
+4,29,Lens,Reims,-1
+4,29,Monaco,Marsilya,1
+4,29,Toulouse,Lille,-1
+4,29,RC Strasbourg,Nice,0
+4,29,Saint-Étienne,Brest,0
+4,29,Angers,Montpellier,1
+4,29,Le Havre,Rennes,-1
+4,29,Auxerre,Lyon,-1
+4,30,Rennes,Nantes,1
+4,30,PSG,Le Havre,1
+4,30,Monaco,RC Strasbourg,0
+4,30,Marsilya,Montpellier,1
+4,30,Lille,Auxerre,1
+4,30,Reims,Toulouse,1
+4,30,Nice,Angers,1
+4,30,Brest,Lens,-1
+4,30,Saint-Étienne,Lyon,1
+4,31,PSG,Nice,-1
+4,31,RC Strasbourg,Saint-Étienne,1
+4,31,Le Havre,Monaco,0
+4,31,Lyon,Rennes,1
+4,31,Angers,Lille,-1
+4,31,Montpellier,Reims,0
+4,31,Nantes,Toulouse,0
+4,31,Lens,Auxerre,-1
+4,31,Marsilya,Brest,1
+4,32,Nice,Reims,1
+4,32,RC Strasbourg,PSG,-1
+4,32,Toulouse,Rennes,1
+4,32,Saint-Étienne,Monaco,-1
+4,32,Nantes,Angers,-1
+4,32,Brest,Montpellier,1
+4,32,Lyon,Lens,-1
+4,32,Auxerre,Le Havre,-1
+4,32,Lille,Marsilya,0
+4,33,Rennes,Nice,1
+4,33,Angers,RC Strasbourg,1
+4,33,Toulouse,Lens,0
+4,33,Monaco,Lyon,1
+4,33,Brest,Lille,1
+4,33,Le Havre,Marsilya,0
+4,33,Reims,Saint-Étienne,0
+4,33,Montpellier,PSG,0
+4,33,Auxerre,Nantes,0
+4,34,Nantes,Montpellier,1
+4,34,Saint-Étienne,Toulouse,0
+4,34,RC Strasbourg,Le Havre,0
+4,34,Lyon,Angers,1
+4,34,Marsilya,Rennes,1
+4,34,Lens,Monaco,1
+4,34,Nice,Brest,1
+4,34,Lille,Reims,1
+4,34,PSG,Auxerre,1
+5,1,Genoa,İnter,0
+5,1,Parma,Fiorentina,-1
+5,1,Milan,Torino,0
+5,1,Empoli,Monza,0
+5,1,Verona,Napoli,1
+5,1,Bologna,Udinese,0
+5,1,Cagliari,Roma,0
+5,1,Lazio,Venezia,1
+5,1,Lecce,Atalanta,-1
+5,1,Juventus,Como,1
+5,2,Parma,Milan,1
+5,2,Udinese,Lazio,1
+5,2,İnter,Lecce,1
+5,2,Monza,Genoa,-1
+5,2,Fiorentina,Venezia,0
+5,2,Torino,Atalanta,1
+5,2,Napoli,Bologna,1
+5,2,Roma,Empoli,-1
+5,2,Cagliari,Como,0
+5,2,Verona,Juventus,-1
+5,3,Venezia,Torino,-1
+5,3,İnter,Atalanta,1
+5,3,Bologna,Empoli,0
+5,3,Lecce,Cagliari,1
+5,3,Lazio,Milan,0
+5,3,Napoli,Parma,1
+5,3,Genoa,Verona,-1
+5,3,Fiorentina,Monza,0
+5,3,Juventus,Roma,0
+5,3,Udinese,Como,1
+5,4,Como,Bologna,0
+5,4,Empoli,Juventus,0
+5,4,Milan,Venezia,1
+5,4,Genoa,Roma,0
+5,4,Atalanta,Fiorentina,1
+5,4,Torino,Lecce,0
+5,4,Cagliari,Napoli,-1
+5,4,Monza,İnter,0
+5,4,Parma,Udinese,-1
+5,4,Lazio,Verona,1
+5,5,Cagliari,Empoli,-1
+5,5,Verona,Torino,-1
+5,5,Venezia,Genoa,1
+5,5,Juventus,Napoli,0
+5,5,Lecce,Parma,0
+5,5,Fiorentina,Lazio,1
+5,5,Monza,Bologna,-1
+5,5,Roma,Udinese,1
+5,5,İnter,Milan,-1
+5,5,Atalanta,Como,-1
+5,6,Milan,Lecce,1
+5,6,Udinese,İnter,-1
+5,6,Genoa,Juventus,-1
+5,6,Bologna,Atalanta,0
+5,6,Torino,Lazio,-1
+5,6,Como,Verona,1
+5,6,Roma,Venezia,1
+5,6,Empoli,Fiorentina,0
+5,6,Napoli,Monza,1
+5,6,Parma,Cagliari,-1
+5,7,Napoli,Como,1
+5,7,Verona,Venezia,1
+5,7,Udinese,Lecce,1
+5,7,Atalanta,Genoa,1
+5,7,İnter,Torino,1
+5,7,Juventus,Cagliari,0
+5,7,Lazio,Empoli,1
+5,7,Bologna,Parma,0
+5,7,Monza,Roma,0
+5,7,Fiorentina,Milan,1
+5,8,Genoa,Bologna,0
+5,8,Como,Parma,0
+5,8,Milan,Udinese,1
+5,8,Juventus,Lazio,1
+5,8,Empoli,Napoli,-1
+5,8,Venezia,Atalanta,-1
+5,8,Lecce,Fiorentina,-1
+5,8,Cagliari,Torino,1
+5,8,Roma,İnter,-1
+5,8,Verona,Monza,-1
+5,9,Udinese,Cagliari,1
+5,9,Torino,Como,1
+5,9,Napoli,Lecce,1
+5,9,Atalanta,Verona,1
+5,9,Parma,Empoli,0
+5,9,Lazio,Genoa,1
+5,9,Monza,Venezia,0
+5,9,İnter,Juventus,0
+5,9,Fiorentina,Roma,1
+5,10,Lecce,Verona,1
+5,10,Cagliari,Bologna,-1
+5,10,Milan,Napoli,-1
+5,10,Venezia,Udinese,1
+5,10,Empoli,İnter,-1
+5,10,Atalanta,Monza,1
+5,10,Juventus,Parma,0
+5,10,Genoa,Fiorentina,-1
+5,10,Roma,Torino,1
+5,10,Como,Lazio,-1
+5,11,Bologna,Lecce,1
+5,11,Udinese,Juventus,-1
+5,11,Monza,Milan,-1
+5,11,Napoli,Atalanta,-1
+5,11,Torino,Fiorentina,-1
+5,11,Verona,Roma,1
+5,11,İnter,Venezia,1
+5,11,Parma,Genoa,-1
+5,11,Empoli,Como,1
+5,11,Lazio,Cagliari,1
+5,12,Genoa,Como,0
+5,12,Lecce,Empoli,0
+5,12,Venezia,Parma,-1
+5,12,Cagliari,Milan,0
+5,12,Juventus,Torino,1
+5,12,Atalanta,Udinese,1
+5,12,Fiorentina,Verona,1
+5,12,Roma,Bologna,-1
+5,12,Monza,Lazio,-1
+5,12,İnter,Napoli,0
+5,13,Verona,İnter,-1
+5,13,Milan,Juventus,0
+5,13,Parma,Atalanta,-1
+5,13,Genoa,Cagliari,0
+5,13,Como,Fiorentina,-1
+5,13,Torino,Monza,0
+5,13,Napoli,Roma,1
+5,13,Lazio,Bologna,1
+5,13,Empoli,Udinese,0
+5,13,Venezia,Lecce,-1
+5,14,Cagliari,Verona,1
+5,14,Como,Monza,0
+5,14,Milan,Empoli,1
+5,14,Bologna,Venezia,1
+5,14,Udinese,Genoa,-1
+5,14,Parma,Lazio,1
+5,14,Torino,Napoli,-1
+5,14,Fiorentina,İnter,1
+5,14,Lecce,Juventus,0
+5,14,Roma,Atalanta,-1
+5,15,İnter,Parma,1
+5,15,Atalanta,Milan,1
+5,15,Genoa,Torino,0
+5,15,Juventus,Bologna,0
+5,15,Roma,Lecce,1
+5,15,Fiorentina,Cagliari,1
+5,15,Verona,Empoli,-1
+5,15,Venezia,Como,0
+5,15,Napoli,Lazio,-1
+5,15,Monza,Udinese,-1
+5,16,Empoli,Torino,-1
+5,16,Cagliari,Atalanta,-1
+5,16,Udinese,Napoli,-1
+5,16,Juventus,Venezia,0
+5,16,Lecce,Monza,1
+5,16,Bologna,Fiorentina,1
+5,16,Parma,Verona,-1
+5,16,Como,Roma,1
+5,16,Milan,Genoa,0
+5,16,Lazio,İnter,-1
+5,17,Verona,Milan,-1
+5,17,Torino,Bologna,-1
+5,17,Genoa,Napoli,-1
+5,17,Lecce,Lazio,-1
+5,17,Roma,Parma,1
+5,17,Venezia,Cagliari,1
+5,17,Atalanta,Empoli,1
+5,17,Monza,Juventus,-1
+5,17,Fiorentina,Udinese,-1
+5,17,İnter,Como,1
+5,18,Empoli,Genoa,-1
+5,18,Parma,Monza,1
+5,18,Cagliari,İnter,-1
+5,18,Lazio,Atalanta,0
+5,18,Udinese,Torino,0
+5,18,Napoli,Venezia,1
+5,18,Juventus,Fiorentina,0
+5,18,Milan,Roma,0
+5,18,Como,Lecce,1
+5,18,Bologna,Verona,-1
+5,19,Venezia,Empoli,0
+5,19,Fiorentina,Napoli,-1
+5,19,Verona,Udinese,0
+5,19,Monza,Cagliari,-1
+5,19,Lecce,Genoa,0
+5,19,Torino,Parma,0
+5,19,Roma,Lazio,1
+5,20,Lazio,Como,0
+5,20,Empoli,Lecce,-1
+5,20,Udinese,Atalanta,0
+5,20,Torino,Juventus,0
+5,20,Milan,Cagliari,0
+5,20,Genoa,Parma,1
+5,20,Venezia,İnter,-1
+5,20,Bologna,Roma,0
+5,20,Napoli,Verona,1
+5,20,Monza,Fiorentina,1
+5,19,Como,Milan,-1
+5,19,Atalanta,Juventus,0
+5,19,İnter,Bologna,0
+5,21,Roma,Genoa,1
+5,21,Bologna,Monza,1
+5,21,Juventus,Milan,1
+5,21,Atalanta,Napoli,-1
+5,21,Fiorentina,Torino,0
+5,21,Parma,Venezia,0
+5,21,Cagliari,Lecce,1
+5,21,Verona,Lazio,-1
+5,21,İnter,Empoli,1
+5,21,Como,Udinese,-1
+5,22,Torino,Cagliari,1
+5,22,Como,Atalanta,-1
+5,22,Napoli,Juventus,1
+5,22,Empoli,Bologna,0
+5,22,Milan,Parma,1
+5,22,Udinese,Roma,-1
+5,22,Lecce,İnter,-1
+5,22,Lazio,Fiorentina,-1
+5,22,Venezia,Verona,0
+5,22,Genoa,Monza,1
+5,23,Parma,Lecce,-1
+5,23,Udinese,Venezia,1
+5,23,Monza,Verona,-1
+5,23,Atalanta,Torino,0
+5,23,Bologna,Como,1
+5,23,Juventus,Empoli,1
+5,23,Fiorentina,Genoa,1
+5,23,Milan,İnter,0
+5,23,Roma,Napoli,0
+5,23,Cagliari,Lazio,-1
+5,24,Como,Juventus,-1
+5,24,Verona,Atalanta,-1
+5,24,Empoli,Milan,-1
+5,24,Torino,Genoa,0
+5,24,Venezia,Roma,-1
+5,24,Cagliari,Parma,1
+5,24,Lazio,Monza,1
+5,24,Lecce,Bologna,0
+5,24,Napoli,Udinese,0
+5,24,İnter,Fiorentina,1
+5,25,Bologna,Torino,1
+5,25,Atalanta,Cagliari,0
+5,25,Lazio,Napoli,0
+5,25,Milan,Verona,1
+5,25,Fiorentina,Como,-1
+5,25,Monza,Lecce,0
+5,25,Udinese,Empoli,1
+5,25,Parma,Roma,-1
+5,25,Juventus,İnter,1
+5,25,Genoa,Venezia,1
+5,26,Lecce,Udinese,-1
+5,26,Parma,Bologna,1
+5,26,Venezia,Lazio,0
+5,26,Torino,Milan,1
+5,26,İnter,Genoa,1
+5,26,Como,Napoli,1
+5,26,Verona,Fiorentina,1
+5,26,Empoli,Atalanta,-1
+5,26,Cagliari,Juventus,-1
+5,26,Roma,Monza,1
+5,26,Bologna,Milan,1
+5,27,Fiorentina,Lecce,1
+5,27,Atalanta,Venezia,0
+5,27,Napoli,İnter,0
+5,27,Udinese,Parma,1
+5,27,Monza,Torino,-1
+5,27,Genoa,Empoli,0
+5,27,Bologna,Cagliari,1
+5,27,Roma,Como,1
+5,27,Milan,Lazio,-1
+5,27,Juventus,Verona,1
+5,28,Cagliari,Genoa,0
+5,28,Como,Venezia,0
+5,28,Parma,Torino,0
+5,28,Lecce,Milan,-1
+5,28,İnter,Monza,1
+5,28,Verona,Bologna,-1
+5,28,Napoli,Fiorentina,1
+5,28,Empoli,Roma,-1
+5,28,Juventus,Atalanta,-1
+5,28,Lazio,Udinese,0
+5,29,Genoa,Lecce,1
+5,29,Udinese,Verona,-1
+5,29,Monza,Parma,0
+5,29,Milan,Como,1
+5,29,Torino,Empoli,1
+5,29,Venezia,Napoli,0
+5,29,Bologna,Lazio,1
+5,29,Roma,Cagliari,1
+5,29,Fiorentina,Juventus,1
+5,29,Atalanta,İnter,-1
+5,30,Como,Empoli,0
+5,30,Venezia,Bologna,-1
+5,30,Juventus,Genoa,1
+5,30,Lecce,Roma,-1
+5,30,Cagliari,Monza,1
+5,30,Fiorentina,Atalanta,1
+5,30,İnter,Udinese,1
+5,30,Napoli,Milan,1
+5,30,Verona,Parma,0
+5,30,Lazio,Torino,0
+5,31,Genoa,Udinese,1
+5,31,Monza,Como,-1
+5,31,Parma,İnter,0
+5,31,Milan,Fiorentina,0
+5,31,Lecce,Venezia,0
+5,31,Empoli,Cagliari,0
+5,31,Torino,Verona,0
+5,31,Atalanta,Lazio,-1
+5,31,Roma,Juventus,0
+5,31,Bologna,Napoli,0
+5,32,Udinese,Milan,-1
+5,32,Venezia,Monza,1
+5,32,İnter,Cagliari,1
+5,32,Juventus,Lecce,1
+5,32,Atalanta,Bologna,1
+5,32,Fiorentina,Parma,0
+5,32,Verona,Genoa,0
+5,32,Como,Torino,1
+5,32,Lazio,Roma,0
+5,32,Napoli,Empoli,1
+5,33,Lecce,Como,-1
+5,33,Monza,Napoli,-1
+5,33,Roma,Verona,1
+5,33,Empoli,Venezia,0
+5,33,Bologna,İnter,1
+5,33,Milan,Atalanta,-1
+5,33,Torino,Udinese,1
+5,33,Parma,Juventus,1
+5,33,Genoa,Lazio,-1
+5,33,Cagliari,Fiorentina,-1
+5,34,Venezia,Milan,-1
+5,34,Como,Genoa,1
+5,34,Fiorentina,Empoli,1
+5,34,İnter,Roma,-1
+5,34,Juventus,Monza,1
+5,34,Atalanta,Lecce,0
+5,34,Napoli,Torino,1
+5,34,Udinese,Bologna,0
+5,34,Verona,Cagliari,-1
+5,34,Lazio,Parma,0
+5,35,Torino,Venezia,0
+5,35,Parma,Como,-1
+5,35,Cagliari,Udinese,-1
+5,35,Lecce,Napoli,-1
+5,35,İnter,Verona,1
+5,35,Empoli,Lazio,-1
+5,35,Monza,Atalanta,-1
+5,35,Roma,Fiorentina,1
+5,35,Bologna,Juventus,0
+5,35,Genoa,Milan,-1
+5,36,Milan,Bologna,1
+5,36,Como,Cagliari,1
+5,36,Lazio,Juventus,0
+5,36,Empoli,Parma,1
+5,36,Udinese,Monza,-1
+5,36,Verona,Lecce,0
+5,36,Torino,İnter,-1
+5,36,Napoli,Genoa,0
+5,36,Venezia,Fiorentina,1
+5,36,Atalanta,Roma,1
+5,37,Genoa,Atalanta,-1
+5,37,Juventus,Udinese,1
+5,37,Monza,Empoli,-1
+5,37,Cagliari,Venezia,1
+5,37,Roma,Milan,1
+5,37,Lecce,Torino,1
+5,37,İnter,Lazio,0
+5,37,Verona,Como,0
+5,37,Parma,Napoli,0
+5,37,Fiorentina,Bologna,1
+5,38,Napoli,Cagliari,1
+5,38,Como,İnter,-1
+5,38,Bologna,Genoa,-1
+5,38,Milan,Monza,1
+5,38,Atalanta,Parma,-1
+5,38,Lazio,Lecce,-1
+5,38,Udinese,Fiorentina,-1
+5,38,Torino,Roma,-1
+5,38,Venezia,Juventus,-1
+5,38,Empoli,Verona,-1
+6,1,Galatasaray,Atakaş Hatayspor,1
+6,1,Kasımpaşa,Tümosan Konyaspor,-1
+6,1,Fenerbahçe,Adana Demirspor,1
+6,1,Antalyaspor,Göztepe,0
+6,1,Net Global Sivasspor,Trabzonspor,0
+6,1,Corendon Alanyaspor,İkas Eyüpspor,0
+6,1,Samsunspor,Beşiktaş,-1
+6,1,Çaykur Rizespor,Rams Başakşehir Futbol Kulübü,0
+6,1,Sipay Bodrum,Gaziantep Futbol Kulübü,-1
+6,2,Tümosan Konyaspor,Galatasaray,-1
+6,2,Bellona Kayserispor,Net Global Sivasspor,-1
+6,2,Adana Demirspor,Çaykur Rizespor,-1
+6,2,Göztepe,Fenerbahçe,0
+6,2,Rams Başakşehir Futbol Kulübü,Corendon Alanyaspor,1
+6,2,Beşiktaş,Antalyaspor,1
+6,2,Gaziantep Futbol Kulübü,Samsunspor,-1
+6,2,Atakaş Hatayspor,Kasımpaşa,0
+6,2,İkas Eyüpspor,Sipay Bodrum,1
+6,3,Corendon Alanyaspor,Göztepe,0
+6,3,Net Global Sivasspor,İkas Eyüpspor,-1
+6,3,Sipay Bodrum,Tümosan Konyaspor,1
+6,3,Kasımpaşa,Adana Demirspor,0
+6,3,Çaykur Rizespor,Fenerbahçe,-1
+6,3,Antalyaspor,Atakaş Hatayspor,1
+6,3,Galatasaray,Gaziantep Futbol Kulübü,1
+6,3,Samsunspor,Rams Başakşehir Futbol Kulübü,1
+6,3,Trabzonspor,Bellona Kayserispor,0
+6,4,Fenerbahçe,Corendon Alanyaspor,1
+6,4,Çaykur Rizespor,Kasımpaşa,-1
+6,4,Tümosan Konyaspor,Bellona Kayserispor,0
+6,4,Adana Demirspor,Galatasaray,-1
+6,4,Göztepe,Sipay Bodrum,1
+6,4,İkas Eyüpspor,Trabzonspor,0
+6,4,Rams Başakşehir Futbol Kulübü,Antalyaspor,1
+6,4,Beşiktaş,Net Global Sivasspor,1
+6,4,Atakaş Hatayspor,Samsunspor,-1
+6,5,Net Global Sivasspor,Gaziantep Futbol Kulübü,1
+6,5,Samsunspor,Tümosan Konyaspor,-1
+6,5,Galatasaray,Çaykur Rizespor,1
+6,5,Sipay Bodrum,Rams Başakşehir Futbol Kulübü,-1
+6,5,Bellona Kayserispor,İkas Eyüpspor,0
+6,5,Kasımpaşa,Fenerbahçe,-1
+6,5,Trabzonspor,Beşiktaş,0
+6,5,Corendon Alanyaspor,Atakaş Hatayspor,0
+6,5,Antalyaspor,Adana Demirspor,1
+6,6,Fenerbahçe,Gaziantep Futbol Kulübü,1
+6,6,Çaykur Rizespor,Corendon Alanyaspor,-1
+6,6,Trabzonspor,Adana Demirspor,0
+6,6,Beşiktaş,Kasımpaşa,1
+6,6,Atakaş Hatayspor,Samsunspor,0
+6,6,Tümosan Konyaspor,Galatasaray,-1
+6,6,İkas Eyüpspor,Sipay Bodrum,1
+6,6,Göztepe,Rams Başakşehir Futbol Kulübü,0
+6,6,Bellona Kayserispor,Antalyaspor,1
+6,7,Galatasaray,Fenerbahçe,0
+6,7,Kasımpaşa,Trabzonspor,-1
+6,7,Corendon Alanyaspor,Samsunspor,1
+6,7,Net Global Sivasspor,Beşiktaş,0
+6,7,Rams Başakşehir Futbol Kulübü,Göztepe,1
+6,7,Adana Demirspor,Çaykur Rizespor,-1
+6,7,Antalyaspor,Tümosan Konyaspor,0
+6,7,Sipay Bodrum,Bellona Kayserispor,1
+6,7,Atakaş Hatayspor,İkas Eyüpspor,0
+6,8,Beşiktaş,Antalyaspor,1
+6,8,Trabzonspor,Corendon Alanyaspor,0
+6,8,Galatasaray,Rams Başakşehir Futbol Kulübü,1
+6,8,Çaykur Rizespor,Sipay Bodrum,-1
+6,8,Fenerbahçe,Samsunspor,1
+6,8,Kasımpaşa,Net Global Sivasspor,0
+6,8,İkas Eyüpspor,Göztepe,-1
+6,8,Tümosan Konyaspor,Atakaş Hatayspor,0
+6,8,Adana Demirspor,Bellona Kayserispor,1
+6,9,Samsunspor,Galatasaray,-1
+6,9,Antalyaspor,Kasımpaşa,0
+6,9,Gaziantep Futbol Kulübü,Fenerbahçe,-1
+6,9,Corendon Alanyaspor,Adana Demirspor,1
+6,9,Bellona Kayserispor,Çaykur Rizespor,0
+6,9,Rams Başakşehir Futbol Kulübü,Tümosan Konyaspor,1
+6,9,İkas Eyüpspor,Trabzonspor,-1
+6,9,Sipay Bodrum,Net Global Sivasspor,0
+6,9,Atakaş Hatayspor,Göztepe,1
+6,10,Fenerbahçe,Beşiktaş,0
+6,10,Galatasaray,Corendon Alanyaspor,1
+6,10,Samsunspor,Kasımpaşa,-1
+6,10,Trabzonspor,Rams Başakşehir Futbol Kulübü,0
+6,10,Tümosan Konyaspor,İkas Eyüpspor,1
+6,10,Adana Demirspor,Antalyaspor,0
+6,10,Bellona Kayserispor,Atakaş Hatayspor,1
+6,10,Göztepe,Net Global Sivasspor,0
+6,10,Çaykur Rizespor,Sipay Bodrum,-1
+6,11,Fenerbahçe,Trabzonspor,0
+6,11,Galatasaray,Kasımpaşa,1
+6,11,Beşiktaş,Corendon Alanyaspor,1
+6,11,Çaykur Rizespor,Samsunspor,0
+6,11,Adana Demirspor,Rams Başakşehir Futbol Kulübü,-1
+6,11,Tümosan Konyaspor,Antalyaspor,0
+6,11,İkas Eyüpspor,Bellona Kayserispor,1
+6,11,Atakaş Hatayspor,Sipay Bodrum,0
+6,11,Göztepe,Gaziantep Futbol Kulübü,1
+6,12,Trabzonspor,Galatasaray,-1
+6,12,Kasımpaşa,Fenerbahçe,0
+6,12,Corendon Alanyaspor,Çaykur Rizespor,1
+6,12,Samsunspor,Adana Demirspor,0
+6,12,Rams Başakşehir Futbol Kulübü,Beşiktaş,-1
+6,12,Antalyaspor,İkas Eyüpspor,0
+6,12,Bellona Kayserispor,Atakaş Hatayspor,1
+6,12,Sipay Bodrum,Tümosan Konyaspor,0
+6,12,Gaziantep Futbol Kulübü,Göztepe,1
+6,13,Fenerbahçe,Corendon Alanyaspor,1
+6,13,Galatasaray,Samsunspor,0
+6,13,Trabzonspor,Adana Demirspor,-1
+6,13,Kasımpaşa,Rams Başakşehir Futbol Kulübü,0
+6,13,Beşiktaş,Tümosan Konyaspor,1
+6,13,Çaykur Rizespor,Antalyaspor,0
+6,13,Göztepe,İkas Eyüpspor,1
+6,13,Atakaş Hatayspor,Bellona Kayserispor,0
+6,13,Sipay Bodrum,Gaziantep Futbol Kulübü,-1
+6,14,Fenerbahçe,Beşiktaş,0
+6,14,Galatasaray,Trabzonspor,1
+6,14,Kasımpaşa,Çaykur Rizespor,0
+6,14,Corendon Alanyaspor,Tümosan Konyaspor,1
+6,14,Adana Demirspor,Göztepe,0
+6,14,Rams Başakşehir Futbol Kulübü,Atakaş Hatayspor,1
+6,14,Antalyaspor,Samsunspor,0
+6,14,Bellona Kayserispor,Sipay Bodrum,1
+6,14,İkas Eyüpspor,Gaziantep Futbol Kulübü,0
+6,15,Fenerbahçe,Gaziantep Futbol Kulübü,1
+6,15,Galatasaray,Rams Başakşehir Futbol Kulübü,0
+6,15,Trabzonspor,İkas Eyüpspor,-1
+6,15,Kasımpaşa,Bellona Kayserispor,0
+6,15,Beşiktaş,Antalyaspor,1
+6,15,Çaykur Rizespor,Samsunspor,0
+6,15,Corendon Alanyaspor,Atakaş Hatayspor,1
+6,15,Tümosan Konyaspor,Sipay Bodrum,0
+6,15,Adana Demirspor,Göztepe,-1
+6,16,Kasımpaşa,İkass Eyüpspor,1
+6,16,Altay Bodrum,Net Global Sivasspor,1
+6,16,Çaykur Rizespor,Tümosan Konyaspor,0
+6,16,Corendon Alanyaspor,Gaziantep,1
+6,16,Atakaş Hatayspor,Göztepe,0
+6,16,Onvo Antalyaspor,Bellona Kayserispor,1
+6,16,Fenerbahçe,Rams Başakşehir,1
+6,16,Adana Demirspor,Beşiktaş,-1
+6,16,Galatasaray,Trabzonspor,1
+6,17,İkass Eyüpspor,Fenerbahçe,0
+6,17,Net Global Sivasspor,Reeder Samsunspor,0
+6,17,Beşiktaş,Corendon Alanyaspor,0
+6,17,Gaziantep,Onvo Antalyaspor,1
+6,17,Bellona Kayserispor,Galatasaray,-1
+6,17,Göztepe,Çaykur Rizespor,1
+6,17,Trabzonspor,Altay Bodrum,1
+6,17,Atakaş Hatayspor,Adana Demirspor,-1
+6,17,Rams Başakşehir,Kasımpaşa,0
+6,18,Çaykur Rizespor,Beşiktaş,0
+6,18,Corendon Alanyaspor,Tümosan Konyaspor,1
+6,18,Adana Demirspor,Rams Başakşehir,-1
+6,18,Onvo Antalyaspor,İkass Eyüpspor,-1
+6,18,Galatasaray,Göztepe,1
+6,18,Reeder Samsunspor,Trabzonspor,1
+6,18,Kasımpaşa,Gaziantep,0
+6,18,Altay Bodrum,Bellona Kayserispor,0
+6,18,Fenerbahçe,Atakaş Hatayspor,1
+6,19,Bellona Kayserispor,Reeder Samsunspor,-1
+6,19,Atakaş Hatayspor,Çaykur Rizespor,-1
+6,19,Beşiktaş,Altay Bodrum,1
+6,19,Net Global Sivasspor,Corendon Alanyaspor,0
+6,19,Trabzonspor,Onvo Antalyaspor,1
+6,19,Gaziantep,Adana Demirspor,1
+6,19,Rams Başakşehir,Galatasaray,-1
+6,19,Tümosan Konyaspor,Fenerbahçe,-1
+6,19,Göztepe,Kasımpaşa,1
+6,20,Atakaş Hatayspor,Galatasaray,0
+6,20,Rams Başakşehir,Çaykur Rizespor,1
+6,20,Gaziantep,Altay Bodrum,0
+6,20,Beşiktaş,Reeder Samsunspor,0
+6,20,Göztepe,Onvo Antalyaspor,1
+6,20,Tümosan Konyaspor,Kasımpaşa,0
+6,20,Adana Demirspor,Fenerbahçe,-1
+6,20,İkass Eyüpspor,Corendon Alanyaspor,1
+6,20,Trabzonspor,Net Global Sivasspor,1
+6,21,Reeder Samsunspor,Gaziantep,1
+6,21,Net Global Sivasspor,Bellona Kayserispor,1
+6,21,Corendon Alanyaspor,Rams Başakşehir,1
+6,21,Galatasaray,Tümosan Konyaspor,1
+6,21,Çaykur Rizespor,Adana Demirspor,1
+6,21,Altay Bodrum,İkass Eyüpspor,-1
+6,21,Onvo Antalyaspor,Beşiktaş,0
+6,21,Fenerbahçe,Göztepe,1
+6,21,Kasımpaşa,Atakaş Hatayspor,1
+6,22,İkass Eyüpspor,Net Global Sivasspor,1
+6,22,Tümosan Konyaspor,Altay Bodrum,1
+6,22,Atakaş Hatayspor,Onvo Antalyaspor,-1
+6,22,Bellona Kayserispor,Trabzonspor,0
+6,22,Rams Başakşehir,Reeder Samsunspor,1
+6,22,Adana Demirspor,Kasımpaşa,-1
+6,22,Göztepe,Corendon Alanyaspor,-1
+6,22,Fenerbahçe,Çaykur Rizespor,1
+6,22,Gaziantep,Galatasaray,-1
+6,23,Reeder Samsunspor,Atakaş Hatayspor,1
+6,23,Bellona Kayserispor,Tümosan Konyaspor,1
+6,23,Net Global Sivasspor,Beşiktaş,-1
+6,23,Kasımpaşa,Çaykur Rizespor,1
+6,23,Corendon Alanyaspor,Fenerbahçe,-1
+6,23,Galatasaray,Adana Demirspor,1
+6,23,Onvo Antalyaspor,Rams Başakşehir,0
+6,23,Trabzonspor,İkass Eyüpspor,1
+6,23,Altay Bodrum,Göztepe,0
+6,24,Adana Demirspor,Onvo Antalyaspor,0
+6,24,Gaziantep,Net Global Sivasspor,1
+6,24,Rams Başakşehir,Altay Bodrum,-1
+6,24,Beşiktaş,Trabzonspor,1
+6,24,Atakaş Hatayspor,Corendon Alanyaspor,1
+6,24,İkass Eyüpspor,Bellona Kayserispor,0
+6,24,Tümosan Konyaspor,Reeder Samsunspor,-1
+6,24,Fenerbahçe,Kasımpaşa,1
+6,24,Çaykur Rizespor,Galatasaray,-1
+6,25,İkass Eyüpspor,Beşiktaş,-1
+6,25,Altay Bodrum,Atakaş Hatayspor,1
+6,25,Net Global Sivasspor,Tümosan Konyaspor,0
+6,25,Onvo Antalyaspor,Kasımpaşa,1
+6,25,Reeder Samsunspor,Çaykur Rizespor,-1
+6,25,Bellona Kayserispor,Göztepe,1
+6,25,Corendon Alanyaspor,Adana Demirspor,1
+6,25,Trabzonspor,Gaziantep,1
+6,25,Galatasaray,Fenerbahçe,0
+6,26,Adana Demirspor,Altay Bodrum,0
+6,26,Beşiktaş,Bellona Kayserispor,1
+6,26,Çaykur Rizespor,Corendon Alanyaspor,1
+6,26,Kasımpaşa,Galatasaray,0
+6,26,Fenerbahçe,Onvo Antalyaspor,1
+6,26,Tümosan Konyaspor,Trabzonspor,1
+6,26,Gaziantep,İkass Eyüpspor,1
+6,26,Rams Başakşehir,Net Global Sivasspor,1
+6,26,Göztepe,Reeder Samsunspor,0
+6,27,Sipay Bodrum FK,Kasımpaşa,1
+6,27,Bellona Kayserispor,Rams Başakşehir,1
+6,27,Onvo Antalyaspor,Çaykur Rizespor,1
+6,27,Trabzonspor,Atakaş Hatayspor,-1
+6,27,Net Global Sivasspor,Göztepe,1
+6,27,Reeder Samsunspor,Adana Demirspor,1
+6,27,İkass Eyüpspor,Tümosan Konyaspor,1
+6,27,Corendon Alanyaspor,Galatasaray,-1
+6,27,Beşiktaş,Gaziantep,-1
+6,28,Galatasaray,Onvo Antalyaspor,1
+6,28,Gaziantep,Bellona Kayserispor,1
+6,28,Kasımpaşa,Corendon Alanyaspor,1
+6,28,Rams Başakşehir,Trabzonspor,-1
+6,28,Tümosan Konyaspor,Beşiktaş,1
+6,28,Çaykur Rizespor,Sipay Bodrum FK,-1
+6,28,Atakaş Hatayspor,Net Global Sivasspor,1
+6,28,Göztepe,İkass Eyüpspor,0
+6,28,Fenerbahçe,Reeder Samsunspor,0
+6,29,Bellona Kayserispor,Atakaş Hatayspor,1
+6,29,Onvo Antalyaspor,Corendon Alanyaspor,1
+6,29,Sipay Bodrum FK,Fenerbahçe,-1
+6,29,Tümosan Konyaspor,Gaziantep,1
+6,29,Net Global Sivasspor,Adana Demirspor,1
+6,29,Reeder Samsunspor,Kasımpaşa,-1
+6,29,Trabzonspor,Göztepe,0
+6,29,Beşiktaş,Galatasaray,1
+6,29,İkass Eyüpspor,Rams Başakşehir,-1
+6,30,Adana Demirspor,Bellona Kayserispor,-1
+6,30,Çaykur Rizespor,Net Global Sivasspor,0
+6,30,Rams Başakşehir,Tümosan Konyaspor,1
+6,30,Onvo Antalyaspor,Reeder Samsunspor,1
+6,30,Corendon Alanyaspor,Sipay Bodrum FK,-1
+6,30,Atakaş Hatayspor,İkass Eyüpspor,-1
+6,30,Fenerbahçe,Trabzonspor,1
+6,30,Kasımpaşa,Beşiktaş,0
+6,30,Göztepe,Gaziantep,0
+6,31,Reeder Samsunspor,Galatasaray,-1
+6,31,Tümosan Konyaspor,Göztepe,1
+6,31,Sipay Bodrum FK,Onvo Antalyaspor,0
+6,31,Beşiktaş,Rams Başakşehir,-1
+6,31,Bellona Kayserispor,Kasımpaşa,1
+6,31,Gaziantep,Atakaş Hatayspor,1
+6,31,Net Global Sivasspor,Fenerbahçe,-1
+6,31,Trabzonspor,Çaykur Rizespor,1
+6,31,İkass Eyüpspor,Adana Demirspor,1
+6,32,Atakaş Hatayspor,Tümosan Konyaspor,-1
+6,32,Galatasaray,Sipay Bodrum FK,1
+6,32,Kasımpaşa,Net Global Sivasspor,1
+6,32,Adana Demirspor,Trabzonspor,-1
+6,32,Göztepe,Beşiktaş,0
+6,32,Rams Başakşehir,Gaziantep,1
+6,32,Çaykur Rizespor,İkass Eyüpspor,1
+6,32,Fenerbahçe,Bellona Kayserispor,0
+6,32,Corendon Alanyaspor,Reeder Samsunspor,1
+6,33,Beşiktaş,Atakaş Hatayspor,1
+6,33,Net Global Sivasspor,Onvo Antalyaspor,1
+6,33,Gaziantep,Fenerbahçe,-1
+6,33,Sipay Bodrum FK,Reeder Samsunspor,-1
+6,33,Tümosan Konyaspor,Adana Demirspor,1
+6,33,Trabzonspor,Corendon Alanyaspor,1
+6,33,Bellona Kayserispor,Çaykur Rizespor,1
+6,33,İkass Eyüpspor,Galatasaray,-1
+6,33,Göztepe,Rams Başakşehir,1
+6,34,Onvo Antalyaspor,Tümosan Konyaspor,1
+6,34,Corendon Alanyaspor,Bellona Kayserispor,0
+6,34,Çaykur Rizespor,Gaziantep,1
+6,34,Galatasaray,Net Global Sivasspor,1
+6,34,Atakaş Hatayspor,Rams Başakşehir,-1
+6,34,Reeder Samsunspor,İkass Eyüpspor,1
+6,34,Fenerbahçe,Beşiktaş,-1
+6,34,Adana Demirspor,Göztepe,-1
+6,34,Kasımpaşa,Trabzonspor,0
+6,35,Rams Başakşehir,Fenerbahçe,-1
+6,35,Gaziantep,Corendon Alanyaspor,-1
+6,35,Tümosan Konyaspor,Çaykur Rizespor,1
+6,35,İkass Eyüpspor,Kasımpaşa,-1
+6,35,Trabzonspor,Galatasaray,-1
+6,35,Net Global Sivasspor,Sipay Bodrum FK,0
+6,35,Beşiktaş,Adana Demirspor,1
+6,35,Göztepe,Atakaş Hatayspor,0
+6,35,Bellona Kayserispor,Onvo Antalyaspor,1
+6,36,Adana Demirspor,Atakaş Hatayspor,-1
+6,36,Reeder Samsunspor,Net Global Sivasspor,1
+6,36,Sipay Bodrum FK,Trabzonspor,0
+6,36,Galatasaray,Bellona Kayserispor,1
+6,36,Fenerbahçe,İkas Eyüpspor,1
+6,36,Corendon Alanyaspor,Beşiktaş,0
+6,36,Onvo Antalyaspor,Gaziantep,0
+6,36,Çaykur Rizespor,Göztepe,1
+6,36,Kasımpaşa,Rams Başakşehir,-1
+6,37,İkas Eyüpspor,Onvo Antalyaspor,1
+6,37,Gaziantep,Kasımpaşa,0
+6,37,Göztepe,Galatasaray,-1
+6,37,Rams Başakşehir,Adana Demirspor,-1
+6,37,Beşiktaş,Çaykur Rizespor,-1
+6,37,Tümosan Konyaspor,Corendon Alanyaspor,-1
+6,37,Trabzonspor,Reeder Samsunspor,0
+6,37,Bellona Kayserispor,Sipay Bodrum FK,0
+6,37,Atakaş Hatayspor,Fenerbahçe,1
+6,38,Onvo Antalyaspor,Trabzonspor,-1
+6,38,Kasımpaşa,Göztepe,-1
+6,38,Galatasaray,Rams Başakşehir,1
+6,38,Çaykur Rizespor,Atakaş Hatayspor,1
+6,38,Fenerbahçe,Tümosan Konyaspor,1
+6,38,Corendon Alanyaspor,Net Global Sivasspor,1
+6,38,Adana Demirspor,Gaziantep,0
+6,38,Reeder Samsunspor,Bellona Kayserispor,1
+6,38,Sipay Bodrum FK,Beşiktaş,-1
